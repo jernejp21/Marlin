@@ -111,6 +111,30 @@
 #define USB_CONNECT_INVERTING              false
 
 /**
+ *        Ender 3 V2 display                         SKR Mini E3 V2.0
+ *                _____                                     _____
+ *            5V | 1 2 | GND                            5V | 1 2 | GND
+ *   (BTN_E1) A  | 3 4 | B (BTN_E2)         (BTN_EN1) PB15 | 3 4 | PB8 (BTN_E2)
+ *          BEEP | 5 6   ENT (BTN_ENC)       (BEEPER) PB9  | 5 6   RX1
+ *  (SKR_RX1) TX | 7 8 | RX (SKR_TX1)                RESET | 7 8 | TX1
+ *            NC | 9 10| NC                 (BTN_ENC) PA15 | 9 10| PB5  
+ *                -----                                     -----
+ *                EXP1                                      EXP1
+ */
+#if ENABLED(DWIN_CREALITY_LCD)
+
+  // RET6 DWIN ENCODER LCD
+  #define BTN_ENC                           PA15
+  #define BTN_EN1                           PB15
+  #define BTN_EN2                           PB8
+
+  #ifndef BEEPER_PIN
+    #define BEEPER_PIN                      PB9
+    #undef SPEAKER
+  #endif
+#endif
+
+/**
  *        SKR Mini E3 V1.0, V1.2                      SKR Mini E3 V2.0
  *                _____                                     _____
  *            5V | 1 2 | GND                            5V | 1 2 | GND
