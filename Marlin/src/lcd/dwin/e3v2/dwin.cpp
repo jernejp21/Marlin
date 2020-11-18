@@ -1844,6 +1844,7 @@ void Draw_Status_Area(const bool with_update) {
 
   #if HAS_ZOFFSET_ITEM
     DWIN_ICON_Show(ICON, ICON_Zoffset, 158, 428);
+    dwin_zoffset = BABY_Z_VAR;
     DWIN_Draw_Signed_Float(DWIN_FONT_STAT, Color_Bg_Black, 2, 2, 178, 429, BABY_Z_VAR * 100);
   #endif
 

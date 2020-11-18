@@ -13,11 +13,11 @@
        <EditorPersist>
         <__.0>
          <BookmarkList></BookmarkList>
-         <CaretPos>33947</CaretPos>
+         <CaretPos>21639</CaretPos>
          <Encoding>2</Encoding>
          <FileName>D:\gitHub\Marlin\Marlin\src\MarlinCore.cpp</FileName>
          <FileType>7</FileType>
-         <ScrollPos>1243</ScrollPos>
+         <ScrollPos>758</ScrollPos>
         </__.0>
         <__.1>
          <BookmarkList></BookmarkList>
@@ -29,35 +29,35 @@
         </__.1>
         <__.10>
          <BookmarkList></BookmarkList>
-         <CaretPos>3631</CaretPos>
-         <Encoding>2</Encoding>
-         <FileName>C:\users\jernej\.platformio\packages\framework-arduinoststm32-maple\STM32F1\variants\generic_stm32f103r\wirish\boards_setup.cpp</FileName>
-         <FileType>7</FileType>
-         <ScrollPos>72</ScrollPos>
-        </__.10>
-        <__.11>
-         <BookmarkList></BookmarkList>
-         <CaretPos>2022</CaretPos>
-         <Encoding>2</Encoding>
-         <FileName>C:\users\jernej\.platformio\packages\framework-arduinoststm32-maple\STM32F1\cores\maple\wirish_time.h</FileName>
-         <FileType>1</FileType>
-         <ScrollPos>38</ScrollPos>
-        </__.11>
-        <__.12>
-         <BookmarkList></BookmarkList>
          <CaretPos>2568</CaretPos>
          <Encoding>2</Encoding>
          <FileName>C:\users\jernej\.platformio\packages\framework-arduinoststm32-maple\STM32F1\variants\generic_stm32f103r\wirish\start_c.c</FileName>
          <FileType>1</FileType>
          <ScrollPos>56</ScrollPos>
-        </__.12>
-        <__.13>
+        </__.10>
+        <__.11>
          <BookmarkList></BookmarkList>
          <CaretPos>1685</CaretPos>
          <Encoding>2</Encoding>
          <FileName>C:\users\jernej\.platformio\packages\framework-arduinoststm32-maple\STM32F1\cores\maple\wirish_time.cpp</FileName>
          <FileType>7</FileType>
          <ScrollPos>15</ScrollPos>
+        </__.11>
+        <__.12>
+         <BookmarkList></BookmarkList>
+         <CaretPos>2561</CaretPos>
+         <Encoding>2</Encoding>
+         <FileName>D:\Projekti\F103\Test\Core\Startup\startup_stm32f103rctx.s</FileName>
+         <FileType>0</FileType>
+         <ScrollPos>60</ScrollPos>
+        </__.12>
+        <__.13>
+         <BookmarkList></BookmarkList>
+         <CaretPos>3663</CaretPos>
+         <Encoding>2</Encoding>
+         <FileName>C:\users\jernej\.platformio\packages\framework-arduinoststm32-maple\STM32F1\cores\maple\libmaple\usart.c</FileName>
+         <FileType>1</FileType>
+         <ScrollPos>78</ScrollPos>
         </__.13>
         <__.14>
          <BookmarkList></BookmarkList>
@@ -69,35 +69,35 @@
         </__.14>
         <__.15>
          <BookmarkList></BookmarkList>
-         <CaretPos>3663</CaretPos>
+         <CaretPos>2589</CaretPos>
          <Encoding>2</Encoding>
-         <FileName>C:\users\jernej\.platformio\packages\framework-arduinoststm32-maple\STM32F1\cores\maple\libmaple\usart.c</FileName>
-         <FileType>1</FileType>
-         <ScrollPos>78</ScrollPos>
+         <FileName>C:\users\jernej\.platformio\packages\framework-arduinoststm32-maple\STM32F1\cores\maple\stm32f1\wirish_digital_f1.cpp</FileName>
+         <FileType>7</FileType>
+         <ScrollPos>59</ScrollPos>
         </__.15>
         <__.16>
-         <BookmarkList></BookmarkList>
-         <CaretPos>2561</CaretPos>
-         <Encoding>2</Encoding>
-         <FileName>D:\Projekti\F103\Test\Core\Startup\startup_stm32f103rctx.s</FileName>
-         <FileType>0</FileType>
-         <ScrollPos>60</ScrollPos>
-        </__.16>
-        <__.17>
          <BookmarkList></BookmarkList>
          <CaretPos>9977</CaretPos>
          <Encoding>2</Encoding>
          <FileName>C:\users\jernej\.platformio\packages\framework-arduinoststm32-maple\STM32F1\cores\maple\libmaple\timer.c</FileName>
          <FileType>1</FileType>
          <ScrollPos>297</ScrollPos>
+        </__.16>
+        <__.17>
+         <BookmarkList></BookmarkList>
+         <CaretPos>4372</CaretPos>
+         <Encoding>2</Encoding>
+         <FileName>C:\users\jernej\.platformio\packages\framework-arduinoststm32-maple\STM32F1\system\libmaple\include\libmaple\bitband.h</FileName>
+         <FileType>1</FileType>
+         <ScrollPos>88</ScrollPos>
         </__.17>
         <__.18>
          <BookmarkList></BookmarkList>
-         <CaretPos>2589</CaretPos>
+         <CaretPos>1366</CaretPos>
          <Encoding>2</Encoding>
-         <FileName>C:\users\jernej\.platformio\packages\framework-arduinoststm32-maple\STM32F1\cores\maple\stm32f1\wirish_digital_f1.cpp</FileName>
+         <FileName>D:\gitHub\Marlin\Marlin\src\gcode\eeprom\M500-M504.cpp</FileName>
          <FileType>7</FileType>
-         <ScrollPos>59</ScrollPos>
+         <ScrollPos>39</ScrollPos>
         </__.18>
         <__.19>
          <BookmarkList></BookmarkList>
@@ -117,83 +117,83 @@
         </__.2>
         <__.20>
          <BookmarkList></BookmarkList>
-         <CaretPos>1366</CaretPos>
-         <Encoding>2</Encoding>
-         <FileName>D:\gitHub\Marlin\Marlin\src\gcode\eeprom\M500-M504.cpp</FileName>
-         <FileType>7</FileType>
-         <ScrollPos>39</ScrollPos>
-        </__.20>
-        <__.21>
-         <BookmarkList></BookmarkList>
-         <CaretPos>4372</CaretPos>
-         <Encoding>2</Encoding>
-         <FileName>C:\users\jernej\.platformio\packages\framework-arduinoststm32-maple\STM32F1\system\libmaple\include\libmaple\bitband.h</FileName>
-         <FileType>1</FileType>
-         <ScrollPos>88</ScrollPos>
-        </__.21>
-        <__.22>
-         <BookmarkList></BookmarkList>
          <CaretPos>4738</CaretPos>
          <Encoding>2</Encoding>
          <FileName>C:\users\jernej\.platformio\packages\framework-arduinoststm32-maple\STM32F1\cores\maple\HardwareSerial.h</FileName>
          <FileType>1</FileType>
          <ScrollPos>114</ScrollPos>
-        </__.22>
-        <__.23>
-         <BookmarkList></BookmarkList>
-         <CaretPos>3660</CaretPos>
-         <Encoding>2</Encoding>
-         <FileName>D:\gitHub\Marlin\Marlin\src\lcd\dwin\dwin_lcd.cpp</FileName>
-         <FileType>7</FileType>
-         <ScrollPos>84</ScrollPos>
-        </__.23>
-        <__.24>
+        </__.20>
+        <__.21>
          <BookmarkList></BookmarkList>
          <CaretPos>2077</CaretPos>
          <Encoding>2</Encoding>
          <FileName>D:\gitHub\Marlin\marlin\src\hal\stm32f1\MarlinSerial.h</FileName>
          <FileType>1</FileType>
          <ScrollPos>40</ScrollPos>
-        </__.24>
-        <__.25>
+        </__.21>
+        <__.22>
+         <BookmarkList></BookmarkList>
+         <CaretPos>3660</CaretPos>
+         <Encoding>2</Encoding>
+         <FileName>D:\gitHub\Marlin\Marlin\src\lcd\dwin\dwin_lcd.cpp</FileName>
+         <FileType>7</FileType>
+         <ScrollPos>84</ScrollPos>
+        </__.22>
+        <__.23>
          <BookmarkList></BookmarkList>
          <CaretPos>2506</CaretPos>
          <Encoding>2</Encoding>
          <FileName>C:\users\jernej\.platformio\packages\framework-arduinoststm32-maple\STM32F1\variants\generic_stm32f103r\wirish\boards.cpp</FileName>
          <FileType>7</FileType>
          <ScrollPos>46</ScrollPos>
-        </__.25>
-        <__.26>
+        </__.23>
+        <__.24>
          <BookmarkList></BookmarkList>
          <CaretPos>1143</CaretPos>
          <Encoding>2</Encoding>
          <FileName>D:\gitHub\Marlin\Marlin\src\core\serial.cpp</FileName>
          <FileType>7</FileType>
          <ScrollPos>7</ScrollPos>
-        </__.26>
-        <__.27>
+        </__.24>
+        <__.25>
+         <BookmarkList></BookmarkList>
+         <CaretPos>3607</CaretPos>
+         <Encoding>2</Encoding>
+         <FileName>D:\gitHub\Marlin\marlin\src\core\macros.h</FileName>
+         <FileType>1</FileType>
+         <ScrollPos>107</ScrollPos>
+        </__.25>
+        <__.26>
          <BookmarkList></BookmarkList>
          <CaretPos>17413</CaretPos>
          <Encoding>2</Encoding>
          <FileName>C:\users\jernej\.platformio\packages\framework-arduinoststm32-maple\STM32F1\system\libmaple\include\libmaple\usart.h</FileName>
          <FileType>1</FileType>
          <ScrollPos>468</ScrollPos>
-        </__.27>
-        <__.28>
+        </__.26>
+        <__.27>
          <BookmarkList></BookmarkList>
          <CaretPos>3059</CaretPos>
          <Encoding>2</Encoding>
          <FileName>C:\users\jernej\.platformio\packages\framework-arduinoststm32-maple\STM32F1\system\libmaple\include\libmaple\ring_buffer.h</FileName>
          <FileType>1</FileType>
          <ScrollPos>62</ScrollPos>
+        </__.27>
+        <__.28>
+         <BookmarkList></BookmarkList>
+         <CaretPos>2716</CaretPos>
+         <Encoding>2</Encoding>
+         <FileName>D:\Projekti\STM32F103RC\Test_USB\Core\Src\main.c</FileName>
+         <FileType>1</FileType>
+         <ScrollPos>72</ScrollPos>
         </__.28>
         <__.29>
          <BookmarkList></BookmarkList>
-         <CaretPos>2381</CaretPos>
+         <CaretPos>8571</CaretPos>
          <Encoding>2</Encoding>
-         <FileName>D:\Projekti\STM32F103RC\Test_USB\Core\Src\stm32f1xx_hal_msp.c</FileName>
-         <FileType>1</FileType>
-         <ScrollPos>51</ScrollPos>
+         <FileName>D:\gitHub\Marlin\Marlin\src\module\endstops.cpp</FileName>
+         <FileType>7</FileType>
+         <ScrollPos>318</ScrollPos>
         </__.29>
         <__.3>
          <BookmarkList></BookmarkList>
@@ -205,67 +205,67 @@
         </__.3>
         <__.30>
          <BookmarkList></BookmarkList>
-         <CaretPos>8571</CaretPos>
+         <CaretPos>2381</CaretPos>
          <Encoding>2</Encoding>
-         <FileName>D:\gitHub\Marlin\Marlin\src\module\endstops.cpp</FileName>
-         <FileType>7</FileType>
-         <ScrollPos>318</ScrollPos>
+         <FileName>D:\Projekti\STM32F103RC\Test_USB\Core\Src\stm32f1xx_hal_msp.c</FileName>
+         <FileType>1</FileType>
+         <ScrollPos>51</ScrollPos>
         </__.30>
         <__.31>
-         <BookmarkList></BookmarkList>
-         <CaretPos>2716</CaretPos>
-         <Encoding>2</Encoding>
-         <FileName>D:\Projekti\STM32F103RC\Test_USB\Core\Src\main.c</FileName>
-         <FileType>1</FileType>
-         <ScrollPos>72</ScrollPos>
-        </__.31>
-        <__.32>
-         <BookmarkList></BookmarkList>
-         <CaretPos>11234</CaretPos>
-         <Encoding>2</Encoding>
-         <FileName>D:\gitHub\Marlin\Marlin\src\sd\cardreader.cpp</FileName>
-         <FileType>7</FileType>
-         <ScrollPos>409</ScrollPos>
-        </__.32>
-        <__.33>
-         <BookmarkList></BookmarkList>
-         <CaretPos>1973</CaretPos>
-         <Encoding>2</Encoding>
-         <FileName>C:\users\jernej\.platformio\packages\framework-arduinoststm32-maple\STM32F1\cores\maple\libmaple\exc.S</FileName>
-         <FileType>0</FileType>
-         <ScrollPos>48</ScrollPos>
-        </__.33>
-        <__.34>
          <BookmarkList></BookmarkList>
          <CaretPos>99069</CaretPos>
          <Encoding>2</Encoding>
          <FileName>D:\gitHub\Marlin\Marlin\src\module\temperature.cpp</FileName>
          <FileType>7</FileType>
          <ScrollPos>2979</ScrollPos>
-        </__.34>
-        <__.35>
+        </__.31>
+        <__.32>
+         <BookmarkList></BookmarkList>
+         <CaretPos>1973</CaretPos>
+         <Encoding>2</Encoding>
+         <FileName>C:\users\jernej\.platformio\packages\framework-arduinoststm32-maple\STM32F1\cores\maple\libmaple\exc.S</FileName>
+         <FileType>0</FileType>
+         <ScrollPos>48</ScrollPos>
+        </__.32>
+        <__.33>
          <BookmarkList></BookmarkList>
          <CaretPos>2420</CaretPos>
          <Encoding>2</Encoding>
          <FileName>D:\gitHub\Marlin\marlin\src\sd\cardreader.h</FileName>
          <FileType>1</FileType>
          <ScrollPos>61</ScrollPos>
-        </__.35>
-        <__.36>
+        </__.33>
+        <__.34>
          <BookmarkList></BookmarkList>
          <CaretPos>2278</CaretPos>
          <Encoding>2</Encoding>
          <FileName>D:\Projekti\F103\Test\Core\Src\stm32f1xx_hal_msp.c</FileName>
          <FileType>1</FileType>
          <ScrollPos>46</ScrollPos>
-        </__.36>
-        <__.37>
+        </__.34>
+        <__.35>
          <BookmarkList></BookmarkList>
          <CaretPos>2991</CaretPos>
          <Encoding>2</Encoding>
          <FileName>D:\Projekti\F103\Test\Core\Src\main.c</FileName>
          <FileType>1</FileType>
          <ScrollPos>85</ScrollPos>
+        </__.35>
+        <__.36>
+         <BookmarkList></BookmarkList>
+         <CaretPos>2016</CaretPos>
+         <Encoding>2</Encoding>
+         <FileName>D:\gitHub\Marlin\Marlin\src\gcode\queue.h</FileName>
+         <FileType>1</FileType>
+         <ScrollPos>32</ScrollPos>
+        </__.36>
+        <__.37>
+         <BookmarkList></BookmarkList>
+         <CaretPos>2692</CaretPos>
+         <Encoding>2</Encoding>
+         <FileName>D:\Projekti\F103\Test\Core\Src\stm32f1xx_it.c</FileName>
+         <FileType>1</FileType>
+         <ScrollPos>61</ScrollPos>
         </__.37>
         <__.38>
          <BookmarkList></BookmarkList>
@@ -277,11 +277,11 @@
         </__.38>
         <__.39>
          <BookmarkList></BookmarkList>
-         <CaretPos>2692</CaretPos>
+         <CaretPos>2630</CaretPos>
          <Encoding>2</Encoding>
-         <FileName>D:\Projekti\F103\Test\Core\Src\stm32f1xx_it.c</FileName>
+         <FileName>C:\users\jernej\.platformio\packages\framework-arduinoststm32-maple\STM32F1\variants\generic_stm32f103r\wirish\syscalls.c</FileName>
          <FileType>1</FileType>
-         <ScrollPos>61</ScrollPos>
+         <ScrollPos>46</ScrollPos>
         </__.39>
         <__.4>
          <BookmarkList></BookmarkList>
@@ -293,83 +293,83 @@
         </__.4>
         <__.40>
          <BookmarkList></BookmarkList>
-         <CaretPos>2016</CaretPos>
-         <Encoding>2</Encoding>
-         <FileName>D:\gitHub\Marlin\Marlin\src\gcode\queue.h</FileName>
-         <FileType>1</FileType>
-         <ScrollPos>32</ScrollPos>
-        </__.40>
-        <__.41>
-         <BookmarkList></BookmarkList>
-         <CaretPos>2630</CaretPos>
-         <Encoding>2</Encoding>
-         <FileName>C:\users\jernej\.platformio\packages\framework-arduinoststm32-maple\STM32F1\variants\generic_stm32f103r\wirish\syscalls.c</FileName>
-         <FileType>1</FileType>
-         <ScrollPos>46</ScrollPos>
-        </__.41>
-        <__.42>
-         <BookmarkList></BookmarkList>
          <CaretPos>3411</CaretPos>
          <Encoding>2</Encoding>
          <FileName>C:\users\jernej\.platformio\packages\framework-arduinoststm32-maple\STM32F1\cores\maple\HardwareSerial.cpp</FileName>
          <FileType>7</FileType>
          <ScrollPos>73</ScrollPos>
-        </__.42>
-        <__.43>
-         <BookmarkList></BookmarkList>
-         <CaretPos>2932</CaretPos>
-         <Encoding>2</Encoding>
-         <FileName>C:\users\jernej\.platformio\packages\framework-arduinoststm32-maple\STM32F1\system\libmaple\include\libmaple\systick.h</FileName>
-         <FileType>1</FileType>
-         <ScrollPos>52</ScrollPos>
-        </__.43>
-        <__.44>
+        </__.40>
+        <__.41>
          <BookmarkList></BookmarkList>
          <CaretPos>1034</CaretPos>
          <Encoding>2</Encoding>
          <FileName>D:\gitHub\Marlin\Marlin\src\gcode\lcd\M117.cpp</FileName>
          <FileType>7</FileType>
          <ScrollPos>12</ScrollPos>
-        </__.44>
-        <__.45>
+        </__.41>
+        <__.42>
          <BookmarkList></BookmarkList>
          <CaretPos>51669</CaretPos>
          <Encoding>2</Encoding>
          <FileName>D:\gitHub\Marlin\Marlin\src\lcd\ultralcd.cpp</FileName>
          <FileType>7</FileType>
          <ScrollPos>1558</ScrollPos>
-        </__.45>
-        <__.46>
+        </__.42>
+        <__.43>
          <BookmarkList></BookmarkList>
          <CaretPos>40327</CaretPos>
          <Encoding>2</Encoding>
          <FileName>D:\gitHub\Marlin\Marlin\src\gcode\gcode.cpp</FileName>
          <FileType>7</FileType>
          <ScrollPos>929</ScrollPos>
-        </__.46>
-        <__.47>
+        </__.43>
+        <__.44>
          <BookmarkList></BookmarkList>
          <CaretPos>2301</CaretPos>
          <Encoding>2</Encoding>
          <FileName>D:\gitHub\Marlin\Marlin\src\core\utility.h</FileName>
          <FileType>1</FileType>
          <ScrollPos>38</ScrollPos>
-        </__.47>
-        <__.48>
+        </__.44>
+        <__.45>
          <BookmarkList></BookmarkList>
          <CaretPos>6666</CaretPos>
          <Encoding>2</Encoding>
          <FileName>D:\Projekti\STM32F103CB\Test_USB\Core\Src\system_stm32f1xx.c</FileName>
          <FileType>1</FileType>
          <ScrollPos>165</ScrollPos>
-        </__.48>
-        <__.49>
+        </__.45>
+        <__.46>
          <BookmarkList></BookmarkList>
          <CaretPos>2563</CaretPos>
          <Encoding>2</Encoding>
          <FileName>D:\Projekti\STM32F103CB\Test_USB\Core\Src\main.c</FileName>
          <FileType>1</FileType>
          <ScrollPos>63</ScrollPos>
+        </__.46>
+        <__.47>
+         <BookmarkList></BookmarkList>
+         <CaretPos>2395</CaretPos>
+         <Encoding>2</Encoding>
+         <FileName>D:\Projekti\STM32F103CB\Test_USB\Core\Startup\startup_stm32f103cbtx.s</FileName>
+         <FileType>0</FileType>
+         <ScrollPos>34</ScrollPos>
+        </__.47>
+        <__.48>
+         <BookmarkList></BookmarkList>
+         <CaretPos>2561</CaretPos>
+         <Encoding>2</Encoding>
+         <FileName>D:\Projekti\STM32F103RC\Test_USB\Core\Startup\startup_stm32f103rctx.s</FileName>
+         <FileType>0</FileType>
+         <ScrollPos>36</ScrollPos>
+        </__.48>
+        <__.49>
+         <BookmarkList></BookmarkList>
+         <CaretPos>1704</CaretPos>
+         <Encoding>2</Encoding>
+         <FileName>C:\users\jernej\.platformio\packages\framework-arduinoststm32-maple\STM32F1\variants\generic_stm32f103r\wirish\start.S</FileName>
+         <FileType>0</FileType>
+         <ScrollPos>19</ScrollPos>
         </__.49>
         <__.5>
          <BookmarkList></BookmarkList>
@@ -381,36 +381,52 @@
         </__.5>
         <__.50>
          <BookmarkList></BookmarkList>
-         <CaretPos>2395</CaretPos>
-         <Encoding>2</Encoding>
-         <FileName>D:\Projekti\STM32F103CB\Test_USB\Core\Startup\startup_stm32f103cbtx.s</FileName>
-         <FileType>0</FileType>
-         <ScrollPos>34</ScrollPos>
-        </__.50>
-        <__.51>
-         <BookmarkList></BookmarkList>
-         <CaretPos>2266</CaretPos>
-         <Encoding>2</Encoding>
-         <FileName>C:\users\jernej\.platformio\packages\framework-arduinoststm32-maple\STM32F1\variants\generic_stm32f103r\wirish\start.S</FileName>
-         <FileType>0</FileType>
-         <ScrollPos>19</ScrollPos>
-        </__.51>
-        <__.52>
-         <BookmarkList></BookmarkList>
-         <CaretPos>2561</CaretPos>
-         <Encoding>2</Encoding>
-         <FileName>D:\Projekti\STM32F103RC\Test_USB\Core\Startup\startup_stm32f103rctx.s</FileName>
-         <FileType>0</FileType>
-         <ScrollPos>36</ScrollPos>
-        </__.52>
-        <__.53>
-         <BookmarkList></BookmarkList>
-         <CaretPos>17893</CaretPos>
+         <CaretPos>44117</CaretPos>
          <Encoding>2</Encoding>
          <FileName>D:\gitHub\Marlin\Marlin\src\lcd\dwin\e3v2\dwin.cpp</FileName>
          <FileType>7</FileType>
-         <ScrollPos>554</ScrollPos>
+         <ScrollPos>1204</ScrollPos>
+        </__.50>
+        <__.51>
+         <BookmarkList></BookmarkList>
+         <CaretPos>21528</CaretPos>
+         <Encoding>2</Encoding>
+         <FileName>D:\gitHub\Marlin\Marlin\src\gcode\gcode.h</FileName>
+         <FileType>1</FileType>
+         <ScrollPos>315</ScrollPos>
+        </__.51>
+        <__.52>
+         <BookmarkList></BookmarkList>
+         <CaretPos>5017</CaretPos>
+         <Encoding>2</Encoding>
+         <FileName>D:\gitHub\Marlin\Marlin\src\lcd\dwin\e3v2\rotary_encoder.cpp</FileName>
+         <FileType>7</FileType>
+         <ScrollPos>125</ScrollPos>
+        </__.52>
+        <__.53>
+         <BookmarkList></BookmarkList>
+         <CaretPos>1574</CaretPos>
+         <Encoding>2</Encoding>
+         <FileName>C:\users\jernej\.platformio\packages\framework-arduinoststm32-maple\STM32F1\cores\maple\main.cpp</FileName>
+         <FileType>7</FileType>
+         <ScrollPos>17</ScrollPos>
         </__.53>
+        <__.54>
+         <BookmarkList></BookmarkList>
+         <CaretPos>2932</CaretPos>
+         <Encoding>2</Encoding>
+         <FileName>C:\users\jernej\.platformio\packages\framework-arduinoststm32-maple\STM32F1\system\libmaple\include\libmaple\systick.h</FileName>
+         <FileType>1</FileType>
+         <ScrollPos>52</ScrollPos>
+        </__.54>
+        <__.55>
+         <BookmarkList></BookmarkList>
+         <CaretPos>11190</CaretPos>
+         <Encoding>2</Encoding>
+         <FileName>D:\gitHub\Marlin\Marlin\src\sd\cardreader.cpp</FileName>
+         <FileType>7</FileType>
+         <ScrollPos>409</ScrollPos>
+        </__.55>
         <__.6>
          <BookmarkList></BookmarkList>
          <CaretPos>26064</CaretPos>
@@ -421,27 +437,27 @@
         </__.6>
         <__.7>
          <BookmarkList></BookmarkList>
-         <CaretPos>2641</CaretPos>
-         <Encoding>2</Encoding>
-         <FileName>D:\gitHub\Marlin\Marlin\src\lcd\dwin\e3v2\rotary_encoder.cpp</FileName>
-         <FileType>7</FileType>
-         <ScrollPos>62</ScrollPos>
-        </__.7>
-        <__.8>
-         <BookmarkList></BookmarkList>
-         <CaretPos>1574</CaretPos>
-         <Encoding>2</Encoding>
-         <FileName>C:\users\jernej\.platformio\packages\framework-arduinoststm32-maple\STM32F1\cores\maple\main.cpp</FileName>
-         <FileType>7</FileType>
-         <ScrollPos>17</ScrollPos>
-        </__.8>
-        <__.9>
-         <BookmarkList></BookmarkList>
          <CaretPos>1517</CaretPos>
          <Encoding>2</Encoding>
          <FileName>D:\gitHub\Marlin\Marlin\src\libs\stopwatch.h</FileName>
          <FileType>1</FileType>
          <ScrollPos>18</ScrollPos>
+        </__.7>
+        <__.8>
+         <BookmarkList></BookmarkList>
+         <CaretPos>3631</CaretPos>
+         <Encoding>2</Encoding>
+         <FileName>C:\users\jernej\.platformio\packages\framework-arduinoststm32-maple\STM32F1\variants\generic_stm32f103r\wirish\boards_setup.cpp</FileName>
+         <FileType>7</FileType>
+         <ScrollPos>72</ScrollPos>
+        </__.8>
+        <__.9>
+         <BookmarkList></BookmarkList>
+         <CaretPos>2022</CaretPos>
+         <Encoding>2</Encoding>
+         <FileName>C:\users\jernej\.platformio\packages\framework-arduinoststm32-maple\STM32F1\cores\maple\wirish_time.h</FileName>
+         <FileType>1</FileType>
+         <ScrollPos>38</ScrollPos>
         </__.9>
        </EditorPersist>
       </EditorPersist>
@@ -494,6 +510,14 @@
        <RectPosTop>20</RectPosTop>
        <RelativeFileName>..\Marlin\src\MarlinCore.cpp</RelativeFileName>
       </Editor.1>
+      <Editor.10>
+       <FileBarIndex>10</FileBarIndex>
+       <RectPosBottom>410</RectPosBottom>
+       <RectPosLeft>220</RectPosLeft>
+       <RectPosRight>520</RectPosRight>
+       <RectPosTop>110</RectPosTop>
+       <RelativeFileName>..\Marlin\src\gcode\gcode.h</RelativeFileName>
+      </Editor.10>
       <Editor.2>
        <FileBarIndex>2</FileBarIndex>
        <RectPosBottom>330</RectPosBottom>
@@ -526,6 +550,38 @@
        <RectPosTop>60</RectPosTop>
        <RelativeFileName>C:\users\jernej\.platformio\packages\framework-arduinoststm32-maple\STM32F1\variants\generic_stm32f103r\wirish\start.S</RelativeFileName>
       </Editor.5>
+      <Editor.6>
+       <FileBarIndex>6</FileBarIndex>
+       <RectPosBottom>370</RectPosBottom>
+       <RectPosLeft>140</RectPosLeft>
+       <RectPosRight>440</RectPosRight>
+       <RectPosTop>70</RectPosTop>
+       <RelativeFileName>..\Marlin\src\lcd\dwin\e3v2\rotary_encoder.cpp</RelativeFileName>
+      </Editor.6>
+      <Editor.7>
+       <FileBarIndex>7</FileBarIndex>
+       <RectPosBottom>380</RectPosBottom>
+       <RectPosLeft>160</RectPosLeft>
+       <RectPosRight>460</RectPosRight>
+       <RectPosTop>80</RectPosTop>
+       <RelativeFileName>C:\users\jernej\.platformio\packages\framework-arduinoststm32-maple\STM32F1\system\libmaple\include\libmaple\systick.h</RelativeFileName>
+      </Editor.7>
+      <Editor.8>
+       <FileBarIndex>8</FileBarIndex>
+       <RectPosBottom>390</RectPosBottom>
+       <RectPosLeft>180</RectPosLeft>
+       <RectPosRight>480</RectPosRight>
+       <RectPosTop>90</RectPosTop>
+       <RelativeFileName>..\marlin\src\core\macros.h</RelativeFileName>
+      </Editor.8>
+      <Editor.9>
+       <FileBarIndex>9</FileBarIndex>
+       <RectPosBottom>400</RectPosBottom>
+       <RectPosLeft>200</RectPosLeft>
+       <RectPosRight>500</RectPosRight>
+       <RectPosTop>100</RectPosTop>
+       <RelativeFileName>..\Marlin\src\sd\cardreader.cpp</RelativeFileName>
+      </Editor.9>
       <EditorHistoryFile.0>
        <RelativeFileName>D:\Projekti\STM32F103RC\Test_USB\Core\Src\main.c</RelativeFileName>
       </EditorHistoryFile.0>
@@ -607,59 +663,71 @@
         <ViewType>Project</ViewType>
        </__.0>
        <__.1>
-        <ViewId>91</ViewId>
-        <ViewType>Memory</ViewType>
+        <ViewId>3</ViewId>
+        <ViewType>Locals</ViewType>
        </__.1>
        <__.10>
-        <ViewId>94</ViewId>
+        <ViewId>96</ViewId>
         <ViewType>Document</ViewType>
        </__.10>
        <__.11>
-        <ViewId>95</ViewId>
+        <ViewId>97</ViewId>
         <ViewType>Document</ViewType>
        </__.11>
        <__.12>
-        <ViewId>2</ViewId>
-        <ViewType>Output</ViewType>
+        <ViewId>98</ViewId>
+        <ViewType>Document</ViewType>
        </__.12>
        <__.13>
-        <ViewId>7</ViewId>
-        <ViewType>Output_Progress</ViewType>
+        <ViewId>99</ViewId>
+        <ViewType>Document</ViewType>
        </__.13>
        <__.14>
+        <ViewId>100</ViewId>
+        <ViewType>Document</ViewType>
+       </__.14>
+       <__.15>
+        <ViewId>2</ViewId>
+        <ViewType>Output</ViewType>
+       </__.15>
+       <__.16>
+        <ViewId>7</ViewId>
+        <ViewType>Output_Progress</ViewType>
+       </__.16>
+       <__.17>
         <ViewId>1</ViewId>
         <ViewType>Symbols</ViewType>
-       </__.14>
+       </__.17>
        <__.2>
-        <ViewId>90</ViewId>
-        <ViewType>Disassembly</ViewType>
-       </__.2>
-       <__.3>
-        <ViewId>3</ViewId>
-        <ViewType>Locals</ViewType>
-       </__.3>
-       <__.4>
         <ViewId>4</ViewId>
         <ViewType>This</ViewType>
-       </__.4>
-       <__.5>
+       </__.2>
+       <__.3>
         <ViewId>5</ViewId>
         <ViewType>CustomWatch</ViewType>
+       </__.3>
+       <__.4>
+        <ViewId>87</ViewId>
+        <ViewType>Document</ViewType>
+       </__.4>
+       <__.5>
+        <ViewId>88</ViewId>
+        <ViewType>Document</ViewType>
        </__.5>
        <__.6>
-        <ViewId>87</ViewId>
+        <ViewId>89</ViewId>
         <ViewType>Document</ViewType>
        </__.6>
        <__.7>
-        <ViewId>88</ViewId>
+        <ViewId>93</ViewId>
         <ViewType>Document</ViewType>
        </__.7>
        <__.8>
-        <ViewId>89</ViewId>
+        <ViewId>94</ViewId>
         <ViewType>Document</ViewType>
        </__.8>
        <__.9>
-        <ViewId>93</ViewId>
+        <ViewId>95</ViewId>
         <ViewType>Document</ViewType>
        </__.9>
       </AllViewBaseData>
@@ -682,7 +750,7 @@
       </CoreRegisterViews>
       <DissasemblyViews>
        <__.0>
-        <ViewId>90</ViewId>
+        <ViewId>-1</ViewId>
         <ViewType>Disassembly</ViewType>
         <ColumnData>
          <__.0>
@@ -695,7 +763,7 @@
          </__.1>
          <__.2>
           <Pos>0</Pos>
-          <Width>237</Width>
+          <Width>248</Width>
          </__.2>
         </ColumnData>
        </__.0>
@@ -711,6 +779,11 @@
         <ViewId>88</ViewId>
         <ViewType>Document</ViewType>
        </__.1>
+       <__.10>
+        <RelativePath>..\Marlin\src\gcode\gcode.h</RelativePath>
+        <ViewId>100</ViewId>
+        <ViewType>Document</ViewType>
+       </__.10>
        <__.2>
         <RelativePath>..\Marlin\src\lcd\dwin\e3v2\dwin.cpp</RelativePath>
         <ViewId>89</ViewId>
@@ -731,11 +804,31 @@
         <ViewId>95</ViewId>
         <ViewType>Document</ViewType>
        </__.5>
+       <__.6>
+        <RelativePath>..\Marlin\src\lcd\dwin\e3v2\rotary_encoder.cpp</RelativePath>
+        <ViewId>96</ViewId>
+        <ViewType>Document</ViewType>
+       </__.6>
+       <__.7>
+        <RelativePath>C:\users\jernej\.platformio\packages\framework-arduinoststm32-maple\STM32F1\system\libmaple\include\libmaple\systick.h</RelativePath>
+        <ViewId>97</ViewId>
+        <ViewType>Document</ViewType>
+       </__.7>
+       <__.8>
+        <RelativePath>..\marlin\src\core\macros.h</RelativePath>
+        <ViewId>98</ViewId>
+        <ViewType>Document</ViewType>
+       </__.8>
+       <__.9>
+        <RelativePath>..\Marlin\src\sd\cardreader.cpp</RelativePath>
+        <ViewId>99</ViewId>
+        <ViewType>Document</ViewType>
+       </__.9>
       </DocumentViews>
       <MemoryViews>
        <__.0>
         <Name>Memory</Name>
-        <ViewId>91</ViewId>
+        <ViewId>-1</ViewId>
         <ViewType>Memory</ViewType>
         <AreaPersistInfo>
          <Address>0x0</Address>
@@ -969,7 +1062,7 @@
          </__.3>
          <__.4>
           <Pos>0</Pos>
-          <Width>0</Width>
+          <Width>46</Width>
          </__.4>
         </ColumnData>
        </__.0>
@@ -995,7 +1088,7 @@
          </__.3>
          <__.4>
           <Pos>0</Pos>
-          <Width>0</Width>
+          <Width>46</Width>
          </__.4>
         </ColumnData>
        </__.1>
@@ -1024,7 +1117,7 @@
          </__.3>
          <__.4>
           <Pos>0</Pos>
-          <Width>31</Width>
+          <Width>272</Width>
          </__.4>
         </ColumnData>
         <WatchData>
@@ -1044,7 +1137,7 @@
           <InitScript></InitScript>
          </PaneMiscData.3>
          <VariableData>
-          <IsRealTimeEnabled>false</IsRealTimeEnabled>
+          <IsRealTimeEnabled>true</IsRealTimeEnabled>
           <Variables>
            <__.0>
             <Name>flag.mounted</Name>
@@ -1070,6 +1163,30 @@
              <Scale>Linear</Scale>
             </ExpressionDisplay>
            </__.1>
+           <__.2>
+            <Name>HMI_ValueStruct.Move_Z_scale</Name>
+            <ExpressionDisplay>
+             <Color>FALSE</Color>
+             <ColorBack>16769216</ColorBack>
+             <ColorText>0</ColorText>
+             <Enabled>FALSE</Enabled>
+             <Hi>100</Hi>
+             <Lo>0</Lo>
+             <Scale>Linear</Scale>
+            </ExpressionDisplay>
+           </__.2>
+           <__.3>
+            <Name>current_position.z</Name>
+            <ExpressionDisplay>
+             <Color>FALSE</Color>
+             <ColorBack>16769216</ColorBack>
+             <ColorText>0</ColorText>
+             <Enabled>FALSE</Enabled>
+             <Hi>100</Hi>
+             <Lo>0</Lo>
+             <Scale>Linear</Scale>
+            </ExpressionDisplay>
+           </__.3>
           </Variables>
          </VariableData>
          <WatchPaneData.0>
@@ -1099,6 +1216,30 @@
              <Scale>Linear</Scale>
             </ExpressionDisplay>
            </__.1>
+           <__.2>
+            <Name>HMI_ValueStruct.Move_Z_scale</Name>
+            <ExpressionDisplay>
+             <Color>FALSE</Color>
+             <ColorBack>16769216</ColorBack>
+             <ColorText>0</ColorText>
+             <Enabled>FALSE</Enabled>
+             <Hi>100</Hi>
+             <Lo>0</Lo>
+             <Scale>Linear</Scale>
+            </ExpressionDisplay>
+           </__.2>
+           <__.3>
+            <Name>current_position.z</Name>
+            <ExpressionDisplay>
+             <Color>FALSE</Color>
+             <ColorBack>16769216</ColorBack>
+             <ColorText>0</ColorText>
+             <Enabled>FALSE</Enabled>
+             <Hi>100</Hi>
+             <Lo>0</Lo>
+             <Scale>Linear</Scale>
+            </ExpressionDisplay>
+           </__.3>
           </Variables>
          </WatchPaneData.0>
          <WatchPaneData.1>
@@ -1115,7 +1256,7 @@
       </WatchViews>
      </ViewData>
      <ViewLayout>
-      <PrimaryDocumentPaneId>7</PrimaryDocumentPaneId>
+      <PrimaryDocumentPaneId>6</PrimaryDocumentPaneId>
       <Frames>
        <__.0>
         <FocusedViewId>95</FocusedViewId>
@@ -1133,243 +1274,261 @@
          <IsDocumentPane>false</IsDocumentPane>
          <IsPinned>false</IsPinned>
          <IsTabbed>false</IsTabbed>
-         <Orientation>Horizontal</Orientation>
+         <Orientation>Vertical</Orientation>
          <TopTabViewId>-1</TopTabViewId>
          <ViewId>-1</ViewId>
          <Children>
           <__.0>
            <DockType>None</DockType>
-           <Extent>0.695787</Extent>
+           <Extent>0.7</Extent>
            <IsDocumentPane>false</IsDocumentPane>
            <IsPinned>false</IsPinned>
            <IsTabbed>false</IsTabbed>
-           <Orientation>Vertical</Orientation>
+           <Orientation>Horizontal</Orientation>
            <TopTabViewId>-1</TopTabViewId>
            <ViewId>-1</ViewId>
            <Children>
             <__.0>
              <DockType>None</DockType>
-             <Extent>0.7</Extent>
+             <Extent>0.126857</Extent>
              <IsDocumentPane>false</IsDocumentPane>
              <IsPinned>false</IsPinned>
-             <IsTabbed>false</IsTabbed>
-             <Orientation>Horizontal</Orientation>
-             <TopTabViewId>-1</TopTabViewId>
+             <IsTabbed>true</IsTabbed>
+             <Orientation>None</Orientation>
+             <TopTabViewId>1</TopTabViewId>
              <ViewId>-1</ViewId>
              <Children>
               <__.0>
-               <DockType>None</DockType>
-               <Extent>0.25</Extent>
-               <IsDocumentPane>false</IsDocumentPane>
-               <IsPinned>false</IsPinned>
-               <IsTabbed>true</IsTabbed>
-               <Orientation>None</Orientation>
-               <TopTabViewId>1</TopTabViewId>
-               <ViewId>-1</ViewId>
-               <Children>
-                <__.0>
-                 <DockType>View</DockType>
-                 <Extent>1</Extent>
-                 <IsDocumentPane>false</IsDocumentPane>
-                 <IsPinned>false</IsPinned>
-                 <IsTabbed>false</IsTabbed>
-                 <Orientation>None</Orientation>
-                 <TopTabViewId>-1</TopTabViewId>
-                 <ViewId>0</ViewId>
-                </__.0>
-                <__.1>
-                 <DockType>View</DockType>
-                 <Extent>1</Extent>
-                 <IsDocumentPane>false</IsDocumentPane>
-                 <IsPinned>false</IsPinned>
-                 <IsTabbed>false</IsTabbed>
-                 <Orientation>None</Orientation>
-                 <TopTabViewId>-1</TopTabViewId>
-                 <ViewId>1</ViewId>
-                </__.1>
-               </Children>
-              </__.0>
-              <__.1>
-               <DockType>None</DockType>
-               <Extent>0.375</Extent>
-               <IsDocumentPane>true</IsDocumentPane>
-               <IsPinned>false</IsPinned>
-               <IsTabbed>true</IsTabbed>
-               <Orientation>None</Orientation>
-               <TopTabViewId>95</TopTabViewId>
-               <ViewId>-1</ViewId>
-               <Children>
-                <__.0>
-                 <DockType>Document</DockType>
-                 <Extent>1</Extent>
-                 <IsDocumentPane>false</IsDocumentPane>
-                 <IsPinned>false</IsPinned>
-                 <IsTabbed>false</IsTabbed>
-                 <Orientation>None</Orientation>
-                 <TopTabViewId>-1</TopTabViewId>
-                 <ViewId>87</ViewId>
-                </__.0>
-                <__.1>
-                 <DockType>Document</DockType>
-                 <Extent>1</Extent>
-                 <IsDocumentPane>false</IsDocumentPane>
-                 <IsPinned>false</IsPinned>
-                 <IsTabbed>false</IsTabbed>
-                 <Orientation>None</Orientation>
-                 <TopTabViewId>-1</TopTabViewId>
-                 <ViewId>88</ViewId>
-                </__.1>
-                <__.2>
-                 <DockType>Document</DockType>
-                 <Extent>1</Extent>
-                 <IsDocumentPane>false</IsDocumentPane>
-                 <IsPinned>false</IsPinned>
-                 <IsTabbed>false</IsTabbed>
-                 <Orientation>None</Orientation>
-                 <TopTabViewId>-1</TopTabViewId>
-                 <ViewId>89</ViewId>
-                </__.2>
-                <__.3>
-                 <DockType>Document</DockType>
-                 <Extent>1</Extent>
-                 <IsDocumentPane>false</IsDocumentPane>
-                 <IsPinned>false</IsPinned>
-                 <IsTabbed>false</IsTabbed>
-                 <Orientation>None</Orientation>
-                 <TopTabViewId>-1</TopTabViewId>
-                 <ViewId>93</ViewId>
-                </__.3>
-                <__.4>
-                 <DockType>Document</DockType>
-                 <Extent>1</Extent>
-                 <IsDocumentPane>false</IsDocumentPane>
-                 <IsPinned>false</IsPinned>
-                 <IsTabbed>false</IsTabbed>
-                 <Orientation>None</Orientation>
-                 <TopTabViewId>-1</TopTabViewId>
-                 <ViewId>94</ViewId>
-                </__.4>
-                <__.5>
-                 <DockType>Document</DockType>
-                 <Extent>1</Extent>
-                 <IsDocumentPane>false</IsDocumentPane>
-                 <IsPinned>false</IsPinned>
-                 <IsTabbed>false</IsTabbed>
-                 <Orientation>None</Orientation>
-                 <TopTabViewId>-1</TopTabViewId>
-                 <ViewId>95</ViewId>
-                </__.5>
-               </Children>
-              </__.1>
-              <__.2>
                <DockType>View</DockType>
-               <Extent>0.375</Extent>
+               <Extent>1</Extent>
                <IsDocumentPane>false</IsDocumentPane>
                <IsPinned>false</IsPinned>
                <IsTabbed>false</IsTabbed>
-               <Orientation>Vertical</Orientation>
+               <Orientation>None</Orientation>
                <TopTabViewId>-1</TopTabViewId>
-               <ViewId>91</ViewId>
-              </__.2>
+               <ViewId>0</ViewId>
+              </__.0>
+              <__.1>
+               <DockType>View</DockType>
+               <Extent>1</Extent>
+               <IsDocumentPane>false</IsDocumentPane>
+               <IsPinned>false</IsPinned>
+               <IsTabbed>false</IsTabbed>
+               <Orientation>None</Orientation>
+               <TopTabViewId>-1</TopTabViewId>
+               <ViewId>1</ViewId>
+              </__.1>
              </Children>
             </__.0>
             <__.1>
              <DockType>None</DockType>
-             <Extent>0.3</Extent>
-             <IsDocumentPane>false</IsDocumentPane>
+             <Extent>0.873143</Extent>
+             <IsDocumentPane>true</IsDocumentPane>
              <IsPinned>false</IsPinned>
-             <IsTabbed>false</IsTabbed>
-             <Orientation>Horizontal</Orientation>
-             <TopTabViewId>-1</TopTabViewId>
+             <IsTabbed>true</IsTabbed>
+             <Orientation>None</Orientation>
+             <TopTabViewId>95</TopTabViewId>
              <ViewId>-1</ViewId>
              <Children>
               <__.0>
-               <DockType>None</DockType>
-               <Extent>0.29988</Extent>
-               <IsDocumentPane>false</IsDocumentPane>
-               <IsPinned>false</IsPinned>
-               <IsTabbed>true</IsTabbed>
-               <Orientation>None</Orientation>
-               <TopTabViewId>7</TopTabViewId>
-               <ViewId>-1</ViewId>
-               <Children>
-                <__.0>
-                 <DockType>View</DockType>
-                 <Extent>1</Extent>
-                 <IsDocumentPane>false</IsDocumentPane>
-                 <IsPinned>false</IsPinned>
-                 <IsTabbed>false</IsTabbed>
-                 <Orientation>None</Orientation>
-                 <TopTabViewId>-1</TopTabViewId>
-                 <ViewId>2</ViewId>
-                </__.0>
-                <__.1>
-                 <DockType>View</DockType>
-                 <Extent>1</Extent>
-                 <IsDocumentPane>false</IsDocumentPane>
-                 <IsPinned>false</IsPinned>
-                 <IsTabbed>false</IsTabbed>
-                 <Orientation>None</Orientation>
-                 <TopTabViewId>-1</TopTabViewId>
-                 <ViewId>7</ViewId>
-                </__.1>
-               </Children>
-              </__.0>
-              <__.1>
-               <DockType>None</DockType>
-               <Extent>0.270081</Extent>
-               <IsDocumentPane>false</IsDocumentPane>
-               <IsPinned>false</IsPinned>
-               <IsTabbed>true</IsTabbed>
-               <Orientation>None</Orientation>
-               <TopTabViewId>3</TopTabViewId>
-               <ViewId>-1</ViewId>
-               <Children>
-                <__.0>
-                 <DockType>View</DockType>
-                 <Extent>1</Extent>
-                 <IsDocumentPane>false</IsDocumentPane>
-                 <IsPinned>false</IsPinned>
-                 <IsTabbed>false</IsTabbed>
-                 <Orientation>None</Orientation>
-                 <TopTabViewId>-1</TopTabViewId>
-                 <ViewId>3</ViewId>
-                </__.0>
-                <__.1>
-                 <DockType>View</DockType>
-                 <Extent>1</Extent>
-                 <IsDocumentPane>false</IsDocumentPane>
-                 <IsPinned>false</IsPinned>
-                 <IsTabbed>false</IsTabbed>
-                 <Orientation>None</Orientation>
-                 <TopTabViewId>-1</TopTabViewId>
-                 <ViewId>4</ViewId>
-                </__.1>
-               </Children>
-              </__.1>
-              <__.2>
-               <DockType>View</DockType>
-               <Extent>0.430039</Extent>
+               <DockType>Document</DockType>
+               <Extent>1</Extent>
                <IsDocumentPane>false</IsDocumentPane>
                <IsPinned>false</IsPinned>
                <IsTabbed>false</IsTabbed>
-               <Orientation>Vertical</Orientation>
+               <Orientation>None</Orientation>
                <TopTabViewId>-1</TopTabViewId>
-               <ViewId>5</ViewId>
+               <ViewId>87</ViewId>
+              </__.0>
+              <__.1>
+               <DockType>Document</DockType>
+               <Extent>1</Extent>
+               <IsDocumentPane>false</IsDocumentPane>
+               <IsPinned>false</IsPinned>
+               <IsTabbed>false</IsTabbed>
+               <Orientation>None</Orientation>
+               <TopTabViewId>-1</TopTabViewId>
+               <ViewId>88</ViewId>
+              </__.1>
+              <__.10>
+               <DockType>Document</DockType>
+               <Extent>1</Extent>
+               <IsDocumentPane>false</IsDocumentPane>
+               <IsPinned>false</IsPinned>
+               <IsTabbed>false</IsTabbed>
+               <Orientation>None</Orientation>
+               <TopTabViewId>-1</TopTabViewId>
+               <ViewId>100</ViewId>
+              </__.10>
+              <__.2>
+               <DockType>Document</DockType>
+               <Extent>1</Extent>
+               <IsDocumentPane>false</IsDocumentPane>
+               <IsPinned>false</IsPinned>
+               <IsTabbed>false</IsTabbed>
+               <Orientation>None</Orientation>
+               <TopTabViewId>-1</TopTabViewId>
+               <ViewId>89</ViewId>
               </__.2>
+              <__.3>
+               <DockType>Document</DockType>
+               <Extent>1</Extent>
+               <IsDocumentPane>false</IsDocumentPane>
+               <IsPinned>false</IsPinned>
+               <IsTabbed>false</IsTabbed>
+               <Orientation>None</Orientation>
+               <TopTabViewId>-1</TopTabViewId>
+               <ViewId>93</ViewId>
+              </__.3>
+              <__.4>
+               <DockType>Document</DockType>
+               <Extent>1</Extent>
+               <IsDocumentPane>false</IsDocumentPane>
+               <IsPinned>false</IsPinned>
+               <IsTabbed>false</IsTabbed>
+               <Orientation>None</Orientation>
+               <TopTabViewId>-1</TopTabViewId>
+               <ViewId>94</ViewId>
+              </__.4>
+              <__.5>
+               <DockType>Document</DockType>
+               <Extent>1</Extent>
+               <IsDocumentPane>false</IsDocumentPane>
+               <IsPinned>false</IsPinned>
+               <IsTabbed>false</IsTabbed>
+               <Orientation>None</Orientation>
+               <TopTabViewId>-1</TopTabViewId>
+               <ViewId>95</ViewId>
+              </__.5>
+              <__.6>
+               <DockType>Document</DockType>
+               <Extent>1</Extent>
+               <IsDocumentPane>false</IsDocumentPane>
+               <IsPinned>false</IsPinned>
+               <IsTabbed>false</IsTabbed>
+               <Orientation>None</Orientation>
+               <TopTabViewId>-1</TopTabViewId>
+               <ViewId>96</ViewId>
+              </__.6>
+              <__.7>
+               <DockType>Document</DockType>
+               <Extent>1</Extent>
+               <IsDocumentPane>false</IsDocumentPane>
+               <IsPinned>false</IsPinned>
+               <IsTabbed>false</IsTabbed>
+               <Orientation>None</Orientation>
+               <TopTabViewId>-1</TopTabViewId>
+               <ViewId>97</ViewId>
+              </__.7>
+              <__.8>
+               <DockType>Document</DockType>
+               <Extent>1</Extent>
+               <IsDocumentPane>false</IsDocumentPane>
+               <IsPinned>false</IsPinned>
+               <IsTabbed>false</IsTabbed>
+               <Orientation>None</Orientation>
+               <TopTabViewId>-1</TopTabViewId>
+               <ViewId>98</ViewId>
+              </__.8>
+              <__.9>
+               <DockType>Document</DockType>
+               <Extent>1</Extent>
+               <IsDocumentPane>false</IsDocumentPane>
+               <IsPinned>false</IsPinned>
+               <IsTabbed>false</IsTabbed>
+               <Orientation>None</Orientation>
+               <TopTabViewId>-1</TopTabViewId>
+               <ViewId>99</ViewId>
+              </__.9>
              </Children>
             </__.1>
            </Children>
           </__.0>
           <__.1>
-           <DockType>View</DockType>
-           <Extent>0.304213</Extent>
+           <DockType>None</DockType>
+           <Extent>0.3</Extent>
            <IsDocumentPane>false</IsDocumentPane>
            <IsPinned>false</IsPinned>
            <IsTabbed>false</IsTabbed>
-           <Orientation>Vertical</Orientation>
+           <Orientation>Horizontal</Orientation>
            <TopTabViewId>-1</TopTabViewId>
-           <ViewId>90</ViewId>
+           <ViewId>-1</ViewId>
+           <Children>
+            <__.0>
+             <DockType>None</DockType>
+             <Extent>0.29988</Extent>
+             <IsDocumentPane>false</IsDocumentPane>
+             <IsPinned>false</IsPinned>
+             <IsTabbed>true</IsTabbed>
+             <Orientation>None</Orientation>
+             <TopTabViewId>7</TopTabViewId>
+             <ViewId>-1</ViewId>
+             <Children>
+              <__.0>
+               <DockType>View</DockType>
+               <Extent>1</Extent>
+               <IsDocumentPane>false</IsDocumentPane>
+               <IsPinned>false</IsPinned>
+               <IsTabbed>false</IsTabbed>
+               <Orientation>None</Orientation>
+               <TopTabViewId>-1</TopTabViewId>
+               <ViewId>2</ViewId>
+              </__.0>
+              <__.1>
+               <DockType>View</DockType>
+               <Extent>1</Extent>
+               <IsDocumentPane>false</IsDocumentPane>
+               <IsPinned>false</IsPinned>
+               <IsTabbed>false</IsTabbed>
+               <Orientation>None</Orientation>
+               <TopTabViewId>-1</TopTabViewId>
+               <ViewId>7</ViewId>
+              </__.1>
+             </Children>
+            </__.0>
+            <__.1>
+             <DockType>None</DockType>
+             <Extent>0.270081</Extent>
+             <IsDocumentPane>false</IsDocumentPane>
+             <IsPinned>false</IsPinned>
+             <IsTabbed>true</IsTabbed>
+             <Orientation>None</Orientation>
+             <TopTabViewId>3</TopTabViewId>
+             <ViewId>-1</ViewId>
+             <Children>
+              <__.0>
+               <DockType>View</DockType>
+               <Extent>1</Extent>
+               <IsDocumentPane>false</IsDocumentPane>
+               <IsPinned>false</IsPinned>
+               <IsTabbed>false</IsTabbed>
+               <Orientation>None</Orientation>
+               <TopTabViewId>-1</TopTabViewId>
+               <ViewId>3</ViewId>
+              </__.0>
+              <__.1>
+               <DockType>View</DockType>
+               <Extent>1</Extent>
+               <IsDocumentPane>false</IsDocumentPane>
+               <IsPinned>false</IsPinned>
+               <IsTabbed>false</IsTabbed>
+               <Orientation>None</Orientation>
+               <TopTabViewId>-1</TopTabViewId>
+               <ViewId>4</ViewId>
+              </__.1>
+             </Children>
+            </__.1>
+            <__.2>
+             <DockType>View</DockType>
+             <Extent>0.430039</Extent>
+             <IsDocumentPane>false</IsDocumentPane>
+             <IsPinned>false</IsPinned>
+             <IsTabbed>false</IsTabbed>
+             <Orientation>Vertical</Orientation>
+             <TopTabViewId>-1</TopTabViewId>
+             <ViewId>5</ViewId>
+            </__.2>
+           </Children>
           </__.1>
          </Children>
         </Dock>
@@ -1418,59 +1577,71 @@
         <ViewType>Project</ViewType>
        </__.0>
        <__.1>
-        <ViewId>91</ViewId>
-        <ViewType>Memory</ViewType>
+        <ViewId>3</ViewId>
+        <ViewType>Locals</ViewType>
        </__.1>
        <__.10>
-        <ViewId>94</ViewId>
+        <ViewId>96</ViewId>
         <ViewType>Document</ViewType>
        </__.10>
        <__.11>
-        <ViewId>95</ViewId>
+        <ViewId>97</ViewId>
         <ViewType>Document</ViewType>
        </__.11>
        <__.12>
-        <ViewId>2</ViewId>
-        <ViewType>Output</ViewType>
+        <ViewId>98</ViewId>
+        <ViewType>Document</ViewType>
        </__.12>
        <__.13>
-        <ViewId>7</ViewId>
-        <ViewType>Output_Progress</ViewType>
+        <ViewId>99</ViewId>
+        <ViewType>Document</ViewType>
        </__.13>
        <__.14>
+        <ViewId>100</ViewId>
+        <ViewType>Document</ViewType>
+       </__.14>
+       <__.15>
+        <ViewId>2</ViewId>
+        <ViewType>Output</ViewType>
+       </__.15>
+       <__.16>
+        <ViewId>7</ViewId>
+        <ViewType>Output_Progress</ViewType>
+       </__.16>
+       <__.17>
         <ViewId>1</ViewId>
         <ViewType>Symbols</ViewType>
-       </__.14>
+       </__.17>
        <__.2>
-        <ViewId>90</ViewId>
-        <ViewType>Disassembly</ViewType>
-       </__.2>
-       <__.3>
-        <ViewId>3</ViewId>
-        <ViewType>Locals</ViewType>
-       </__.3>
-       <__.4>
         <ViewId>4</ViewId>
         <ViewType>This</ViewType>
-       </__.4>
-       <__.5>
+       </__.2>
+       <__.3>
         <ViewId>5</ViewId>
         <ViewType>CustomWatch</ViewType>
+       </__.3>
+       <__.4>
+        <ViewId>87</ViewId>
+        <ViewType>Document</ViewType>
+       </__.4>
+       <__.5>
+        <ViewId>88</ViewId>
+        <ViewType>Document</ViewType>
        </__.5>
        <__.6>
-        <ViewId>87</ViewId>
+        <ViewId>89</ViewId>
         <ViewType>Document</ViewType>
        </__.6>
        <__.7>
-        <ViewId>88</ViewId>
+        <ViewId>93</ViewId>
         <ViewType>Document</ViewType>
        </__.7>
        <__.8>
-        <ViewId>89</ViewId>
+        <ViewId>94</ViewId>
         <ViewType>Document</ViewType>
        </__.8>
        <__.9>
-        <ViewId>93</ViewId>
+        <ViewId>95</ViewId>
         <ViewType>Document</ViewType>
        </__.9>
       </AllViewBaseData>
@@ -1493,7 +1664,7 @@
       </CoreRegisterViews>
       <DissasemblyViews>
        <__.0>
-        <ViewId>90</ViewId>
+        <ViewId>-1</ViewId>
         <ViewType>Disassembly</ViewType>
         <ColumnData>
          <__.0>
@@ -1506,7 +1677,7 @@
          </__.1>
          <__.2>
           <Pos>0</Pos>
-          <Width>237</Width>
+          <Width>248</Width>
          </__.2>
         </ColumnData>
        </__.0>
@@ -1522,6 +1693,11 @@
         <ViewId>88</ViewId>
         <ViewType>Document</ViewType>
        </__.1>
+       <__.10>
+        <RelativePath>..\Marlin\src\gcode\gcode.h</RelativePath>
+        <ViewId>100</ViewId>
+        <ViewType>Document</ViewType>
+       </__.10>
        <__.2>
         <RelativePath>..\Marlin\src\lcd\dwin\e3v2\dwin.cpp</RelativePath>
         <ViewId>89</ViewId>
@@ -1542,11 +1718,31 @@
         <ViewId>95</ViewId>
         <ViewType>Document</ViewType>
        </__.5>
+       <__.6>
+        <RelativePath>..\Marlin\src\lcd\dwin\e3v2\rotary_encoder.cpp</RelativePath>
+        <ViewId>96</ViewId>
+        <ViewType>Document</ViewType>
+       </__.6>
+       <__.7>
+        <RelativePath>C:\users\jernej\.platformio\packages\framework-arduinoststm32-maple\STM32F1\system\libmaple\include\libmaple\systick.h</RelativePath>
+        <ViewId>97</ViewId>
+        <ViewType>Document</ViewType>
+       </__.7>
+       <__.8>
+        <RelativePath>..\marlin\src\core\macros.h</RelativePath>
+        <ViewId>98</ViewId>
+        <ViewType>Document</ViewType>
+       </__.8>
+       <__.9>
+        <RelativePath>..\Marlin\src\sd\cardreader.cpp</RelativePath>
+        <ViewId>99</ViewId>
+        <ViewType>Document</ViewType>
+       </__.9>
       </DocumentViews>
       <MemoryViews>
        <__.0>
         <Name>Memory</Name>
-        <ViewId>91</ViewId>
+        <ViewId>-1</ViewId>
         <ViewType>Memory</ViewType>
         <AreaPersistInfo>
          <Address>0x0</Address>
@@ -1780,7 +1976,7 @@
          </__.3>
          <__.4>
           <Pos>0</Pos>
-          <Width>0</Width>
+          <Width>46</Width>
          </__.4>
         </ColumnData>
        </__.0>
@@ -1806,7 +2002,7 @@
          </__.3>
          <__.4>
           <Pos>0</Pos>
-          <Width>0</Width>
+          <Width>46</Width>
          </__.4>
         </ColumnData>
        </__.1>
@@ -1835,7 +2031,7 @@
          </__.3>
          <__.4>
           <Pos>0</Pos>
-          <Width>31</Width>
+          <Width>272</Width>
          </__.4>
         </ColumnData>
         <WatchData>
@@ -1855,7 +2051,7 @@
           <InitScript></InitScript>
          </PaneMiscData.3>
          <VariableData>
-          <IsRealTimeEnabled>false</IsRealTimeEnabled>
+          <IsRealTimeEnabled>true</IsRealTimeEnabled>
           <Variables>
            <__.0>
             <Name>flag.mounted</Name>
@@ -1881,6 +2077,30 @@
              <Scale>Linear</Scale>
             </ExpressionDisplay>
            </__.1>
+           <__.2>
+            <Name>HMI_ValueStruct.Move_Z_scale</Name>
+            <ExpressionDisplay>
+             <Color>FALSE</Color>
+             <ColorBack>16769216</ColorBack>
+             <ColorText>0</ColorText>
+             <Enabled>FALSE</Enabled>
+             <Hi>100</Hi>
+             <Lo>0</Lo>
+             <Scale>Linear</Scale>
+            </ExpressionDisplay>
+           </__.2>
+           <__.3>
+            <Name>current_position.z</Name>
+            <ExpressionDisplay>
+             <Color>FALSE</Color>
+             <ColorBack>16769216</ColorBack>
+             <ColorText>0</ColorText>
+             <Enabled>FALSE</Enabled>
+             <Hi>100</Hi>
+             <Lo>0</Lo>
+             <Scale>Linear</Scale>
+            </ExpressionDisplay>
+           </__.3>
           </Variables>
          </VariableData>
          <WatchPaneData.0>
@@ -1910,6 +2130,30 @@
              <Scale>Linear</Scale>
             </ExpressionDisplay>
            </__.1>
+           <__.2>
+            <Name>HMI_ValueStruct.Move_Z_scale</Name>
+            <ExpressionDisplay>
+             <Color>FALSE</Color>
+             <ColorBack>16769216</ColorBack>
+             <ColorText>0</ColorText>
+             <Enabled>FALSE</Enabled>
+             <Hi>100</Hi>
+             <Lo>0</Lo>
+             <Scale>Linear</Scale>
+            </ExpressionDisplay>
+           </__.2>
+           <__.3>
+            <Name>current_position.z</Name>
+            <ExpressionDisplay>
+             <Color>FALSE</Color>
+             <ColorBack>16769216</ColorBack>
+             <ColorText>0</ColorText>
+             <Enabled>FALSE</Enabled>
+             <Hi>100</Hi>
+             <Lo>0</Lo>
+             <Scale>Linear</Scale>
+            </ExpressionDisplay>
+           </__.3>
           </Variables>
          </WatchPaneData.0>
          <WatchPaneData.1>
@@ -1926,7 +2170,7 @@
       </WatchViews>
      </ViewData>
      <ViewLayout>
-      <PrimaryDocumentPaneId>7</PrimaryDocumentPaneId>
+      <PrimaryDocumentPaneId>6</PrimaryDocumentPaneId>
       <Frames>
        <__.0>
         <FocusedViewId>95</FocusedViewId>
@@ -1944,243 +2188,261 @@
          <IsDocumentPane>false</IsDocumentPane>
          <IsPinned>false</IsPinned>
          <IsTabbed>false</IsTabbed>
-         <Orientation>Horizontal</Orientation>
+         <Orientation>Vertical</Orientation>
          <TopTabViewId>-1</TopTabViewId>
          <ViewId>-1</ViewId>
          <Children>
           <__.0>
            <DockType>None</DockType>
-           <Extent>0.695787</Extent>
+           <Extent>0.7</Extent>
            <IsDocumentPane>false</IsDocumentPane>
            <IsPinned>false</IsPinned>
            <IsTabbed>false</IsTabbed>
-           <Orientation>Vertical</Orientation>
+           <Orientation>Horizontal</Orientation>
            <TopTabViewId>-1</TopTabViewId>
            <ViewId>-1</ViewId>
            <Children>
             <__.0>
              <DockType>None</DockType>
-             <Extent>0.7</Extent>
+             <Extent>0.126857</Extent>
              <IsDocumentPane>false</IsDocumentPane>
              <IsPinned>false</IsPinned>
-             <IsTabbed>false</IsTabbed>
-             <Orientation>Horizontal</Orientation>
-             <TopTabViewId>-1</TopTabViewId>
+             <IsTabbed>true</IsTabbed>
+             <Orientation>None</Orientation>
+             <TopTabViewId>1</TopTabViewId>
              <ViewId>-1</ViewId>
              <Children>
               <__.0>
-               <DockType>None</DockType>
-               <Extent>0.25</Extent>
-               <IsDocumentPane>false</IsDocumentPane>
-               <IsPinned>false</IsPinned>
-               <IsTabbed>true</IsTabbed>
-               <Orientation>None</Orientation>
-               <TopTabViewId>1</TopTabViewId>
-               <ViewId>-1</ViewId>
-               <Children>
-                <__.0>
-                 <DockType>View</DockType>
-                 <Extent>1</Extent>
-                 <IsDocumentPane>false</IsDocumentPane>
-                 <IsPinned>false</IsPinned>
-                 <IsTabbed>false</IsTabbed>
-                 <Orientation>None</Orientation>
-                 <TopTabViewId>-1</TopTabViewId>
-                 <ViewId>0</ViewId>
-                </__.0>
-                <__.1>
-                 <DockType>View</DockType>
-                 <Extent>1</Extent>
-                 <IsDocumentPane>false</IsDocumentPane>
-                 <IsPinned>false</IsPinned>
-                 <IsTabbed>false</IsTabbed>
-                 <Orientation>None</Orientation>
-                 <TopTabViewId>-1</TopTabViewId>
-                 <ViewId>1</ViewId>
-                </__.1>
-               </Children>
-              </__.0>
-              <__.1>
-               <DockType>None</DockType>
-               <Extent>0.375</Extent>
-               <IsDocumentPane>true</IsDocumentPane>
-               <IsPinned>false</IsPinned>
-               <IsTabbed>true</IsTabbed>
-               <Orientation>None</Orientation>
-               <TopTabViewId>95</TopTabViewId>
-               <ViewId>-1</ViewId>
-               <Children>
-                <__.0>
-                 <DockType>Document</DockType>
-                 <Extent>1</Extent>
-                 <IsDocumentPane>false</IsDocumentPane>
-                 <IsPinned>false</IsPinned>
-                 <IsTabbed>false</IsTabbed>
-                 <Orientation>None</Orientation>
-                 <TopTabViewId>-1</TopTabViewId>
-                 <ViewId>87</ViewId>
-                </__.0>
-                <__.1>
-                 <DockType>Document</DockType>
-                 <Extent>1</Extent>
-                 <IsDocumentPane>false</IsDocumentPane>
-                 <IsPinned>false</IsPinned>
-                 <IsTabbed>false</IsTabbed>
-                 <Orientation>None</Orientation>
-                 <TopTabViewId>-1</TopTabViewId>
-                 <ViewId>88</ViewId>
-                </__.1>
-                <__.2>
-                 <DockType>Document</DockType>
-                 <Extent>1</Extent>
-                 <IsDocumentPane>false</IsDocumentPane>
-                 <IsPinned>false</IsPinned>
-                 <IsTabbed>false</IsTabbed>
-                 <Orientation>None</Orientation>
-                 <TopTabViewId>-1</TopTabViewId>
-                 <ViewId>89</ViewId>
-                </__.2>
-                <__.3>
-                 <DockType>Document</DockType>
-                 <Extent>1</Extent>
-                 <IsDocumentPane>false</IsDocumentPane>
-                 <IsPinned>false</IsPinned>
-                 <IsTabbed>false</IsTabbed>
-                 <Orientation>None</Orientation>
-                 <TopTabViewId>-1</TopTabViewId>
-                 <ViewId>93</ViewId>
-                </__.3>
-                <__.4>
-                 <DockType>Document</DockType>
-                 <Extent>1</Extent>
-                 <IsDocumentPane>false</IsDocumentPane>
-                 <IsPinned>false</IsPinned>
-                 <IsTabbed>false</IsTabbed>
-                 <Orientation>None</Orientation>
-                 <TopTabViewId>-1</TopTabViewId>
-                 <ViewId>94</ViewId>
-                </__.4>
-                <__.5>
-                 <DockType>Document</DockType>
-                 <Extent>1</Extent>
-                 <IsDocumentPane>false</IsDocumentPane>
-                 <IsPinned>false</IsPinned>
-                 <IsTabbed>false</IsTabbed>
-                 <Orientation>None</Orientation>
-                 <TopTabViewId>-1</TopTabViewId>
-                 <ViewId>95</ViewId>
-                </__.5>
-               </Children>
-              </__.1>
-              <__.2>
                <DockType>View</DockType>
-               <Extent>0.375</Extent>
+               <Extent>1</Extent>
                <IsDocumentPane>false</IsDocumentPane>
                <IsPinned>false</IsPinned>
                <IsTabbed>false</IsTabbed>
-               <Orientation>Vertical</Orientation>
+               <Orientation>None</Orientation>
                <TopTabViewId>-1</TopTabViewId>
-               <ViewId>91</ViewId>
-              </__.2>
+               <ViewId>0</ViewId>
+              </__.0>
+              <__.1>
+               <DockType>View</DockType>
+               <Extent>1</Extent>
+               <IsDocumentPane>false</IsDocumentPane>
+               <IsPinned>false</IsPinned>
+               <IsTabbed>false</IsTabbed>
+               <Orientation>None</Orientation>
+               <TopTabViewId>-1</TopTabViewId>
+               <ViewId>1</ViewId>
+              </__.1>
              </Children>
             </__.0>
             <__.1>
              <DockType>None</DockType>
-             <Extent>0.3</Extent>
-             <IsDocumentPane>false</IsDocumentPane>
+             <Extent>0.873143</Extent>
+             <IsDocumentPane>true</IsDocumentPane>
              <IsPinned>false</IsPinned>
-             <IsTabbed>false</IsTabbed>
-             <Orientation>Horizontal</Orientation>
-             <TopTabViewId>-1</TopTabViewId>
+             <IsTabbed>true</IsTabbed>
+             <Orientation>None</Orientation>
+             <TopTabViewId>95</TopTabViewId>
              <ViewId>-1</ViewId>
              <Children>
               <__.0>
-               <DockType>None</DockType>
-               <Extent>0.29988</Extent>
-               <IsDocumentPane>false</IsDocumentPane>
-               <IsPinned>false</IsPinned>
-               <IsTabbed>true</IsTabbed>
-               <Orientation>None</Orientation>
-               <TopTabViewId>7</TopTabViewId>
-               <ViewId>-1</ViewId>
-               <Children>
-                <__.0>
-                 <DockType>View</DockType>
-                 <Extent>1</Extent>
-                 <IsDocumentPane>false</IsDocumentPane>
-                 <IsPinned>false</IsPinned>
-                 <IsTabbed>false</IsTabbed>
-                 <Orientation>None</Orientation>
-                 <TopTabViewId>-1</TopTabViewId>
-                 <ViewId>2</ViewId>
-                </__.0>
-                <__.1>
-                 <DockType>View</DockType>
-                 <Extent>1</Extent>
-                 <IsDocumentPane>false</IsDocumentPane>
-                 <IsPinned>false</IsPinned>
-                 <IsTabbed>false</IsTabbed>
-                 <Orientation>None</Orientation>
-                 <TopTabViewId>-1</TopTabViewId>
-                 <ViewId>7</ViewId>
-                </__.1>
-               </Children>
-              </__.0>
-              <__.1>
-               <DockType>None</DockType>
-               <Extent>0.270081</Extent>
-               <IsDocumentPane>false</IsDocumentPane>
-               <IsPinned>false</IsPinned>
-               <IsTabbed>true</IsTabbed>
-               <Orientation>None</Orientation>
-               <TopTabViewId>3</TopTabViewId>
-               <ViewId>-1</ViewId>
-               <Children>
-                <__.0>
-                 <DockType>View</DockType>
-                 <Extent>1</Extent>
-                 <IsDocumentPane>false</IsDocumentPane>
-                 <IsPinned>false</IsPinned>
-                 <IsTabbed>false</IsTabbed>
-                 <Orientation>None</Orientation>
-                 <TopTabViewId>-1</TopTabViewId>
-                 <ViewId>3</ViewId>
-                </__.0>
-                <__.1>
-                 <DockType>View</DockType>
-                 <Extent>1</Extent>
-                 <IsDocumentPane>false</IsDocumentPane>
-                 <IsPinned>false</IsPinned>
-                 <IsTabbed>false</IsTabbed>
-                 <Orientation>None</Orientation>
-                 <TopTabViewId>-1</TopTabViewId>
-                 <ViewId>4</ViewId>
-                </__.1>
-               </Children>
-              </__.1>
-              <__.2>
-               <DockType>View</DockType>
-               <Extent>0.430039</Extent>
+               <DockType>Document</DockType>
+               <Extent>1</Extent>
                <IsDocumentPane>false</IsDocumentPane>
                <IsPinned>false</IsPinned>
                <IsTabbed>false</IsTabbed>
-               <Orientation>Vertical</Orientation>
+               <Orientation>None</Orientation>
                <TopTabViewId>-1</TopTabViewId>
-               <ViewId>5</ViewId>
+               <ViewId>87</ViewId>
+              </__.0>
+              <__.1>
+               <DockType>Document</DockType>
+               <Extent>1</Extent>
+               <IsDocumentPane>false</IsDocumentPane>
+               <IsPinned>false</IsPinned>
+               <IsTabbed>false</IsTabbed>
+               <Orientation>None</Orientation>
+               <TopTabViewId>-1</TopTabViewId>
+               <ViewId>88</ViewId>
+              </__.1>
+              <__.10>
+               <DockType>Document</DockType>
+               <Extent>1</Extent>
+               <IsDocumentPane>false</IsDocumentPane>
+               <IsPinned>false</IsPinned>
+               <IsTabbed>false</IsTabbed>
+               <Orientation>None</Orientation>
+               <TopTabViewId>-1</TopTabViewId>
+               <ViewId>100</ViewId>
+              </__.10>
+              <__.2>
+               <DockType>Document</DockType>
+               <Extent>1</Extent>
+               <IsDocumentPane>false</IsDocumentPane>
+               <IsPinned>false</IsPinned>
+               <IsTabbed>false</IsTabbed>
+               <Orientation>None</Orientation>
+               <TopTabViewId>-1</TopTabViewId>
+               <ViewId>89</ViewId>
               </__.2>
+              <__.3>
+               <DockType>Document</DockType>
+               <Extent>1</Extent>
+               <IsDocumentPane>false</IsDocumentPane>
+               <IsPinned>false</IsPinned>
+               <IsTabbed>false</IsTabbed>
+               <Orientation>None</Orientation>
+               <TopTabViewId>-1</TopTabViewId>
+               <ViewId>93</ViewId>
+              </__.3>
+              <__.4>
+               <DockType>Document</DockType>
+               <Extent>1</Extent>
+               <IsDocumentPane>false</IsDocumentPane>
+               <IsPinned>false</IsPinned>
+               <IsTabbed>false</IsTabbed>
+               <Orientation>None</Orientation>
+               <TopTabViewId>-1</TopTabViewId>
+               <ViewId>94</ViewId>
+              </__.4>
+              <__.5>
+               <DockType>Document</DockType>
+               <Extent>1</Extent>
+               <IsDocumentPane>false</IsDocumentPane>
+               <IsPinned>false</IsPinned>
+               <IsTabbed>false</IsTabbed>
+               <Orientation>None</Orientation>
+               <TopTabViewId>-1</TopTabViewId>
+               <ViewId>95</ViewId>
+              </__.5>
+              <__.6>
+               <DockType>Document</DockType>
+               <Extent>1</Extent>
+               <IsDocumentPane>false</IsDocumentPane>
+               <IsPinned>false</IsPinned>
+               <IsTabbed>false</IsTabbed>
+               <Orientation>None</Orientation>
+               <TopTabViewId>-1</TopTabViewId>
+               <ViewId>96</ViewId>
+              </__.6>
+              <__.7>
+               <DockType>Document</DockType>
+               <Extent>1</Extent>
+               <IsDocumentPane>false</IsDocumentPane>
+               <IsPinned>false</IsPinned>
+               <IsTabbed>false</IsTabbed>
+               <Orientation>None</Orientation>
+               <TopTabViewId>-1</TopTabViewId>
+               <ViewId>97</ViewId>
+              </__.7>
+              <__.8>
+               <DockType>Document</DockType>
+               <Extent>1</Extent>
+               <IsDocumentPane>false</IsDocumentPane>
+               <IsPinned>false</IsPinned>
+               <IsTabbed>false</IsTabbed>
+               <Orientation>None</Orientation>
+               <TopTabViewId>-1</TopTabViewId>
+               <ViewId>98</ViewId>
+              </__.8>
+              <__.9>
+               <DockType>Document</DockType>
+               <Extent>1</Extent>
+               <IsDocumentPane>false</IsDocumentPane>
+               <IsPinned>false</IsPinned>
+               <IsTabbed>false</IsTabbed>
+               <Orientation>None</Orientation>
+               <TopTabViewId>-1</TopTabViewId>
+               <ViewId>99</ViewId>
+              </__.9>
              </Children>
             </__.1>
            </Children>
           </__.0>
           <__.1>
-           <DockType>View</DockType>
-           <Extent>0.304213</Extent>
+           <DockType>None</DockType>
+           <Extent>0.3</Extent>
            <IsDocumentPane>false</IsDocumentPane>
            <IsPinned>false</IsPinned>
            <IsTabbed>false</IsTabbed>
-           <Orientation>Vertical</Orientation>
+           <Orientation>Horizontal</Orientation>
            <TopTabViewId>-1</TopTabViewId>
-           <ViewId>90</ViewId>
+           <ViewId>-1</ViewId>
+           <Children>
+            <__.0>
+             <DockType>None</DockType>
+             <Extent>0.29988</Extent>
+             <IsDocumentPane>false</IsDocumentPane>
+             <IsPinned>false</IsPinned>
+             <IsTabbed>true</IsTabbed>
+             <Orientation>None</Orientation>
+             <TopTabViewId>7</TopTabViewId>
+             <ViewId>-1</ViewId>
+             <Children>
+              <__.0>
+               <DockType>View</DockType>
+               <Extent>1</Extent>
+               <IsDocumentPane>false</IsDocumentPane>
+               <IsPinned>false</IsPinned>
+               <IsTabbed>false</IsTabbed>
+               <Orientation>None</Orientation>
+               <TopTabViewId>-1</TopTabViewId>
+               <ViewId>2</ViewId>
+              </__.0>
+              <__.1>
+               <DockType>View</DockType>
+               <Extent>1</Extent>
+               <IsDocumentPane>false</IsDocumentPane>
+               <IsPinned>false</IsPinned>
+               <IsTabbed>false</IsTabbed>
+               <Orientation>None</Orientation>
+               <TopTabViewId>-1</TopTabViewId>
+               <ViewId>7</ViewId>
+              </__.1>
+             </Children>
+            </__.0>
+            <__.1>
+             <DockType>None</DockType>
+             <Extent>0.270081</Extent>
+             <IsDocumentPane>false</IsDocumentPane>
+             <IsPinned>false</IsPinned>
+             <IsTabbed>true</IsTabbed>
+             <Orientation>None</Orientation>
+             <TopTabViewId>3</TopTabViewId>
+             <ViewId>-1</ViewId>
+             <Children>
+              <__.0>
+               <DockType>View</DockType>
+               <Extent>1</Extent>
+               <IsDocumentPane>false</IsDocumentPane>
+               <IsPinned>false</IsPinned>
+               <IsTabbed>false</IsTabbed>
+               <Orientation>None</Orientation>
+               <TopTabViewId>-1</TopTabViewId>
+               <ViewId>3</ViewId>
+              </__.0>
+              <__.1>
+               <DockType>View</DockType>
+               <Extent>1</Extent>
+               <IsDocumentPane>false</IsDocumentPane>
+               <IsPinned>false</IsPinned>
+               <IsTabbed>false</IsTabbed>
+               <Orientation>None</Orientation>
+               <TopTabViewId>-1</TopTabViewId>
+               <ViewId>4</ViewId>
+              </__.1>
+             </Children>
+            </__.1>
+            <__.2>
+             <DockType>View</DockType>
+             <Extent>0.430039</Extent>
+             <IsDocumentPane>false</IsDocumentPane>
+             <IsPinned>false</IsPinned>
+             <IsTabbed>false</IsTabbed>
+             <Orientation>Vertical</Orientation>
+             <TopTabViewId>-1</TopTabViewId>
+             <ViewId>5</ViewId>
+            </__.2>
+           </Children>
           </__.1>
          </Children>
         </Dock>
@@ -2193,6 +2455,32 @@
       <Fetch>
        <Beep>True</Beep>
        <DisplayMessage>True</DisplayMessage>
+       <BP.0>
+        <__>
+         <ActionEnabled>False</ActionEnabled>
+         <ActionScript></ActionScript>
+         <ActionScriptParams></ActionScriptParams>
+         <ActionShow>False</ActionShow>
+         <Active>False</Active>
+         <Condition></Condition>
+         <Condition_Count>0</Condition_Count>
+         <ConditionEnabled>False</ConditionEnabled>
+         <Name>&quot;..\Marlin\src\lcd\dwin\e3v2\dwin.cpp&quot;::1207</Name>
+        </__>
+       </BP.0>
+       <BP.1>
+        <__>
+         <ActionEnabled>False</ActionEnabled>
+         <ActionScript></ActionScript>
+         <ActionScriptParams></ActionScriptParams>
+         <ActionShow>False</ActionShow>
+         <Active>False</Active>
+         <Condition></Condition>
+         <Condition_Count>0</Condition_Count>
+         <ConditionEnabled>False</ConditionEnabled>
+         <Name>&quot;..\Marlin\src\lcd\dwin\e3v2\dwin.cpp&quot;::1224</Name>
+        </__>
+       </BP.1>
       </Fetch>
      </Breakpoints>
      <Debug>
@@ -2214,109 +2502,9 @@
        <FromTo></FromTo>
       </Directories>
       <Download>
-       <DefaultFile>2</DefaultFile>
+       <DefaultFile>0</DefaultFile>
        <UseRealTimeWrite>0</UseRealTimeWrite>
        <File.0>
-        <AnalyzeCodeOutsideFunctions>1</AnalyzeCodeOutsideFunctions>
-        <Area></Area>
-        <CoreIndex>0</CoreIndex>
-        <Flags>3</Flags>
-        <Load>0</Load>
-        <LoadCode>1</LoadCode>
-        <LoadSymbols>1</LoadSymbols>
-        <MemoryArea>0</MemoryArea>
-        <Offset>134217728</Offset>
-        <OffsetA type="B">AAAAAAAIAAAAAAAA</OffsetA>
-        <OptimizeTypeByName>0</OptimizeTypeByName>
-        <OverrideMemoryArea>0</OverrideMemoryArea>
-        <Path>D:\Projekti\SKR_mini_E3.bin</Path>
-        <ProjectOutputFile>0</ProjectOutputFile>
-        <SOffset>0</SOffset>
-        <SOffsetA type="B">AAAAAAAAAAAAAAAA</SOffsetA>
-        <TargetRelative>False</TargetRelative>
-        <TrustLineSymbolsToStartOnInstruction>1</TrustLineSymbolsToStartOnInstruction>
-        <Type>0</Type>
-        <UseDefaultCore>1</UseDefaultCore>
-        <UseDefaultMSID>1</UseDefaultMSID>
-        <MSID>
-         <App></App>
-         <bAppID>false</bAppID>
-         <bVMID>false</bVMID>
-         <Level>Sys</Level>
-         <Secure>false</Secure>
-         <VM></VM>
-        </MSID>
-        <Options>
-         <IgnoreChecksum>0</IgnoreChecksum>
-        </Options>
-        <PreProc>
-         <Analyze>none</Analyze>
-         <CommandLine></CommandLine>
-         <UseProjectDefines>FALSE</UseProjectDefines>
-         <UseProjectIncludePaths>FALSE</UseProjectIncludePaths>
-        </PreProc>
-       </File.0>
-       <File.1>
-        <AnalyzeCodeOutsideFunctions>1</AnalyzeCodeOutsideFunctions>
-        <Area></Area>
-        <CoreIndex>0</CoreIndex>
-        <Flags>3</Flags>
-        <Load>0</Load>
-        <LoadCode>1</LoadCode>
-        <LoadSymbols>1</LoadSymbols>
-        <MemoryArea>0</MemoryArea>
-        <Offset>0</Offset>
-        <OffsetA type="B">AAAAAAAAAAAAAAAA</OffsetA>
-        <OptimizeTypeByName>0</OptimizeTypeByName>
-        <OverrideMemoryArea>0</OverrideMemoryArea>
-        <Path>D:\Projekti\STM32F103RC\Test_USB\Debug\Test_USB.elf</Path>
-        <ProjectOutputFile>0</ProjectOutputFile>
-        <SOffset>0</SOffset>
-        <SOffsetA type="B">AAAAAAAAAAAAAAAA</SOffsetA>
-        <TargetRelative>False</TargetRelative>
-        <TrustLineSymbolsToStartOnInstruction>1</TrustLineSymbolsToStartOnInstruction>
-        <Type>28</Type>
-        <UseDefaultCore>1</UseDefaultCore>
-        <UseDefaultMSID>1</UseDefaultMSID>
-        <MSID>
-         <App></App>
-         <bAppID>false</bAppID>
-         <bVMID>false</bVMID>
-         <Level>Sys</Level>
-         <Secure>false</Secure>
-         <VM></VM>
-        </MSID>
-        <Options>
-         <BitfieldsOverrideTypeFromByteSize>0</BitfieldsOverrideTypeFromByteSize>
-         <CallStack>0</CallStack>
-         <DumpELFHeaders>0</DumpELFHeaders>
-         <GCC_ARM_double_Format>1</GCC_ARM_double_Format>
-         <IgnoreChecksum>0</IgnoreChecksum>
-         <IgnoreNonStatementLines>1</IgnoreNonStatementLines>
-         <InsertInlinedFunctions>0</InsertInlinedFunctions>
-         <LoadCode>0</LoadCode>
-         <LoadDwarfSection>1</LoadDwarfSection>
-         <LoadSymbols>0</LoadSymbols>
-         <LoadWeakFunctions>1</LoadWeakFunctions>
-         <LoadZeros>0</LoadZeros>
-         <MergeTypes>0</MergeTypes>
-         <Override64bitVariableLocation>1</Override64bitVariableLocation>
-         <RemoveOptimizedLines>1</RemoveOptimizedLines>
-         <ReverseBitFields>0</ReverseBitFields>
-         <UseSymbolTableForVariablesWithNoLocation>1</UseSymbolTableForVariablesWithNoLocation>
-         <Cosmic>
-          <nowidden>FALSE</nowidden>
-          <sprec>FALSE</sprec>
-         </Cosmic>
-        </Options>
-        <PreProc>
-         <Analyze>none</Analyze>
-         <CommandLine></CommandLine>
-         <UseProjectDefines>FALSE</UseProjectDefines>
-         <UseProjectIncludePaths>FALSE</UseProjectIncludePaths>
-        </PreProc>
-       </File.1>
-       <File.2>
         <AnalyzeCodeOutsideFunctions>1</AnalyzeCodeOutsideFunctions>
         <Area></Area>
         <CoreIndex>0</CoreIndex>
@@ -2375,7 +2563,7 @@
          <UseProjectDefines>FALSE</UseProjectDefines>
          <UseProjectIncludePaths>FALSE</UseProjectIncludePaths>
         </PreProc>
-       </File.2>
+       </File.0>
       </Download>
       <DownloadOptionsData>
        <AfterDL1>0</AfterDL1>
@@ -2836,11 +3024,11 @@
            <Data>0</Data>
            <DataSize>0</DataSize>
            <DataValue>0</DataValue>
-           <Enabled>0</Enabled>
-           <Function>0</Function>
+           <Enabled>1</Enabled>
+           <Function>2</Function>
            <Address.0>
-            <Address></Address>
-            <Enabled>0</Enabled>
+            <Address>(HMI_ValueStruct).Move_Z_scale</Address>
+            <Enabled>1</Enabled>
             <IgnoreLSBBits>0</IgnoreLSBBits>
            </Address.0>
            <Address.1>
