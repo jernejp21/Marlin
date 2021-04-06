@@ -1,75 +1,53 @@
-# Marlin 3D Printer Firmware
+# Marlin 3D Printer Firmware fork for Ender 3 V2 with SKR mini E3 V2.0
 
-![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
-![GitHub contributors](https://img.shields.io/github/contributors/marlinfirmware/marlin.svg)
-![GitHub Release Date](https://img.shields.io/github/release-date/marlinfirmware/marlin.svg)
-[![Build Status](https://github.com/MarlinFirmware/Marlin/workflows/CI/badge.svg?branch=bugfix-2.0.x)](https://github.com/MarlinFirmware/Marlin/actions)
+This is forked repositiry of Marlin Firmware. It is customised for use with Ender 3 V2 printer (and DWIN display) which uses SKR mini E3 V2.0 mainboard.
 
-<img align="right" width=175 src="buildroot/share/pixmaps/logo/marlin-250.png" />
+Use this as a reference to your project and read all changes made here!
 
-Additional documentation can be found at the [Marlin Home Page](https://marlinfw.org/).
-Please test this firmware and let us know if it misbehaves in any way. Volunteers are standing by!
+# Importatnt notice
 
-## Marlin 2.0
+This FW is compiled as standalone, without bootloader. It means, that the code starts on address 0x0800_0000 of STM32F103 MCU. If you are using bootloader, do not download this code via bootloader! To change address offset (and also vector table), uncomment lines 752 and 753 in platformio.ini! This will call python script which uses linker file with start address offset.
 
-Marlin 2.0 takes this popular RepRap firmware to the next level by adding support for much faster 32-bit and ARM-based boards while improving support for 8-bit AVR boards. Read about Marlin's decision to use a "Hardware Abstraction Layer" below.
+# HW changes
 
-Download earlier versions of Marlin on the [Releases page](https://github.com/MarlinFirmware/Marlin/releases).
+Change flat cable from the main board to display, because pinout is different.
 
-## Building Marlin 2.0
+`pins_BTT_SKR_MINI_E3_common.h`
+```C
+/**
+ *        Ender 3 V2 display                         SKR Mini E3 V2.0
+ *                _____                                     _____
+ *            5V | 1 2 | GND                            5V | 1 2 | GND
+ *   (BTN_E1) A  | 3 4 | B (BTN_E2)         (BTN_EN1) PB15 | 3 4 | PB8 (BTN_E2)
+ *          BEEP | 5 6   ENT (BTN_ENC)                PB9  | 5 6   RX1
+ *  (SKR_RX1) TX | 7 8 | RX (SKR_TX1)                RESET | 7 8 | TX1
+ *            NC | 9 10| NC                  (BEEPER) PA15 | 9 10| PB5  (BTN_ENC)
+ *                -----                                     -----
+ *                EXP1                                      EXP1
+ */
+#if ENABLED(DWIN_CREALITY_LCD)
 
-To build Marlin 2.0 you'll need [Arduino IDE 1.8.8 or newer](https://www.arduino.cc/en/main/software) or [PlatformIO](http://docs.platformio.org/en/latest/ide.html#platformio-ide). Detailed build and install instructions are posted at:
+  // RET6 DWIN ENCODER LCD
+  #define BTN_ENC                           PB5
+  #define BTN_EN1                           PB15
+  #define BTN_EN2                           PB8
 
-  - [Installing Marlin (Arduino)](http://marlinfw.org/docs/basics/install_arduino.html)
-  - [Installing Marlin (VSCode)](http://marlinfw.org/docs/basics/install_platformio_vscode.html).
+  #ifndef BEEPER_PIN
+    #define BEEPER_PIN                      PA15
+    #undef SPEAKER
+  #endif
+#endif
+```
 
-### Supported Platforms
+# SW changes
 
-  Platform|MCU|Example Boards
-  --------|---|-------
-  [Arduino AVR](https://www.arduino.cc/)|ATmega|RAMPS, Melzi, RAMBo
-  [Teensy++ 2.0](http://www.microchip.com/wwwproducts/en/AT90USB1286)|AT90USB1286|Printrboard
-  [Arduino Due](https://www.arduino.cc/en/Guide/ArduinoDue)|SAM3X8E|RAMPS-FD, RADDS, RAMPS4DUE
-  [LPC1768](http://www.nxp.com/products/microcontrollers-and-processors/arm-based-processors-and-mcus/lpc-cortex-m-mcus/lpc1700-cortex-m3/512kb-flash-64kb-sram-ethernet-usb-lqfp100-package:LPC1768FBD100)|ARM® Cortex-M3|MKS SBASE, Re-ARM, Selena Compact
-  [LPC1769](https://www.nxp.com/products/processors-and-microcontrollers/arm-microcontrollers/general-purpose-mcus/lpc1700-cortex-m3/512kb-flash-64kb-sram-ethernet-usb-lqfp100-package:LPC1769FBD100)|ARM® Cortex-M3|Smoothieboard, Azteeg X5 mini, TH3D EZBoard
-  [STM32F103](https://www.st.com/en/microcontrollers-microprocessors/stm32f103.html)|ARM® Cortex-M3|Malyan M200, GTM32 Pro, MKS Robin, BTT SKR Mini
-  [STM32F401](https://www.st.com/en/microcontrollers-microprocessors/stm32f401.html)|ARM® Cortex-M4|ARMED, Rumba32, SKR Pro, Lerdge, FYSETC S6
-  [STM32F7x6](https://www.st.com/en/microcontrollers-microprocessors/stm32f7x6.html)|ARM® Cortex-M7|The Borg, RemRam V1
-  [SAMD51P20A](https://www.adafruit.com/product/4064)|ARM® Cortex-M4|Adafruit Grand Central M4
-  [Teensy 3.5](https://www.pjrc.com/store/teensy35.html)|ARM® Cortex-M4|
-  [Teensy 3.6](https://www.pjrc.com/store/teensy36.html)|ARM® Cortex-M4|
-  [Teensy 4.0](https://www.pjrc.com/store/teensy40.html)|ARM® Cortex-M7|
-  [Teensy 4.1](https://www.pjrc.com/store/teensy41.html)|ARM® Cortex-M7|
+- BL touch is enabled. All BL touch cables are connected to BL touch port. Z end stop is empty!
+- Homing doesn't use end stops. X and Y axis use TMC2209 feature for sensorless homing, Z homing is done with BL touch.
+- Extruder is dual geard with 3:1 ratio, so E steps are different than with original extruder.
+- There is no filament runout sensor, but M600 command for filament change is implemented. Had to make some changes to DWIN code to display "change filament" message.
 
-## Submitting Changes
 
-- Submit **Bug Fixes** as Pull Requests to the ([bugfix-2.0.x](https://github.com/MarlinFirmware/Marlin/tree/bugfix-2.0.x)) branch.
-- Follow the [Coding Standards](http://marlinfw.org/docs/development/coding_standards.html) to gain points with the maintainers.
-- Please submit your questions and concerns to the [Issue Queue](https://github.com/MarlinFirmware/Marlin/issues).
-
-## Marlin Support
-
-For best results getting help with configuration and troubleshooting, please use the following resources:
-
-- [Marlin Documentation](http://marlinfw.org) - Official Marlin documentation
-- [Marlin Discord](https://discord.gg/n5NJ59y) - Discuss issues with Marlin users and developers
-- Facebook Group ["Marlin Firmware"](https://www.facebook.com/groups/1049718498464482/)
-- RepRap.org [Marlin Forum](http://forums.reprap.org/list.php?415)
-- [Tom's 3D Forums](https://forum.toms3d.org/)
-- Facebook Group ["Marlin Firmware for 3D Printers"](https://www.facebook.com/groups/3Dtechtalk/)
-- [Marlin Configuration](https://www.youtube.com/results?search_query=marlin+configuration) on YouTube
-
-## Credits
-
-The current Marlin dev team consists of:
-
- - Scott Lahteine [[@thinkyhead](https://github.com/thinkyhead)] - USA &nbsp; [Donate](http://www.thinkyhead.com/donate-to-marlin)
- - Roxanne Neufeld [[@Roxy-3D](https://github.com/Roxy-3D)] - USA
- - Chris Pepper [[@p3p](https://github.com/p3p)] - UK
- - Bob Kuhn [[@Bob-the-Kuhn](https://github.com/Bob-the-Kuhn)] - USA
- - Erik van der Zalm [[@ErikZalm](https://github.com/ErikZalm)] - Netherlands &nbsp; [![Flattr Erik](https://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=ErikZalm&url=https://github.com/MarlinFirmware/Marlin&title=Marlin&language=&tags=github&category=software)
-
-## License
+# Licence
 
 Marlin is published under the [GPL license](/LICENSE) because we believe in open development. The GPL comes with both rights and obligations. Whether you use Marlin firmware as the driver for your open or closed-source product, you must keep Marlin open, and you must provide your compatible Marlin source code to end users upon request. The most straightforward way to comply with the Marlin license is to make a fork of Marlin on Github, perform your modifications, and direct users to your modified fork.
 
