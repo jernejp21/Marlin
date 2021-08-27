@@ -2,12 +2,12 @@
 
 This is forked repositiry of Marlin Firmware. It is customised for use with Ender 3 V2 printer (and DWIN display) which uses SKR mini E3 V2.0 mainboard.
 
-Use this as a reference to your project and read all changes made here!
+Use this as a reference to your project and read all changes made here! This build works with Marlin 2.0.9
 
 # Importatnt notice
 
 This FW is compiled as standalone, without bootloader. It means, that the code starts on address 0x0800_0000 of STM32F103 MCU. If you are using bootloader, do not download this code via bootloader!
-To change address offset enable python script in... This will call python script which uses linker file with start address offset.
+To change address offset enable python script in `ini/stm32f1.ini`. Uncoment line 47. This will call python script which uses linker file with start address offset.
 
 # HW changes
 
