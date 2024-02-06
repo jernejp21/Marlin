@@ -148,7 +148,7 @@
    *
    * All pins are labeled as printed on DWIN PCB. Connect TX-TX, A-A and so on.
    */
-
+#define NO_CONTROLLER_CUSTOM_WIRING_WARNING
   #ifndef NO_CONTROLLER_CUSTOM_WIRING_WARNING
     #error "CAUTION! Ender-3 V2 display requires a custom cable. See 'pins_BTT_SKR_MINI_E3_common.h' for details. (Define NO_CONTROLLER_CUSTOM_WIRING_WARNING to suppress this warning.)"
   #endif
